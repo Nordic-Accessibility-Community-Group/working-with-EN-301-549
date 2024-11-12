@@ -3,9 +3,8 @@
 1. Use [issues](https://github.com/Nordic-Accessibility-Community-Group/working-with-EN-301-549/issues) only for repository changes (not for questions in general).
 
 ## What it is for
-How to understand the EN-standard and how monitoring works in different countries.
-
-Everyone working with accessibility conforming to the EN-standard are welcome to ask questions and participate in discussions.
+1. How to understand the EN-standard and how monitoring works in different countries.
+1. Everyone working with accessibility conforming to the EN-standard are welcome to ask questions and participate in discussions.
 
 ## What it is NOT for
 1. Being a source of legal advice.
