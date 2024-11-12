@@ -19,7 +19,7 @@ This repository was created from discussions in the W3C Nordic Community Group, 
 [WCAG Audit Discussies in Nederland en Vlaanderen](https://github.com/WCAG-Audit-Discussions/NL-BE)
 
 # Code of conduct
-1. See if your question is an open issue or already in the Q&A and please try to read the standards.
+1. See if your question is an open issue or already in the [Q&A](https://github.com/Nordic-Accessibility-Community-Group/working-with-EN-301-549/discussions/categories/q-a) and please try to read the standards.
 2. This is a safe place for discussions.
 3. We are respecful and nice to each other and everyones opinions.
 4. If you do not agree with something, please write it in a respectful manner.
