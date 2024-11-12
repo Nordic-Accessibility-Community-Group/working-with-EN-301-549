@@ -1,4 +1,6 @@
 # Working with EN-301 549
+1. Use discussions for asking questions and for discussing topics.
+1. Use issues only for repository changes (not for questions in general).
 
 ## What it is for
 How to understand the EN-standard and how monitoring works in different countries.
