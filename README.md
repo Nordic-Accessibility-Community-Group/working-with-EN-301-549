@@ -15,10 +15,12 @@ Everyone working with accessibility conforming to the EN-standard are welcome to
 1. Understand differences and simlarities in how different countries monitor the standards.
 1. Gather information of monitoring agencies in different countries.
 
-## Inspiration for the repository
+## Why this repository was created
 This repository was created from discussions in the W3C Nordic Community Group, see notes from [“EN 301 549 vs WCAG – Gaps and Bridges” Study Group](https://www.w3.org/community/nordic-accessibility/2024/11/07/en-301-549-vs-wcag-gaps-and-bridges-study-group/).
 
-[WCAG Audit Discussies in Nederland en Vlaanderen](https://github.com/WCAG-Audit-Discussions/NL-BE)
+### Inspiration for the repository
+- [WCAG Audit Discussies in Nederland en Vlaanderen](https://github.com/WCAG-Audit-Discussions/NL-BE)
+- [WCAG Discussions](https://github.com/w3c/wcag/discussions/categories/q-a)
 
 # Code of conduct
 1. See if your question is an open issue or already in the [Q&A](https://github.com/Nordic-Accessibility-Community-Group/working-with-EN-301-549/discussions/categories/q-a) and please try to read the standards.
