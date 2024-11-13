@@ -8,6 +8,7 @@
 
 ## What it is NOT for
 1. Being a source of legal advice.
+2. Promoting commercial activities.
 
 ## Main goals
 1. To reach a common understanding of how to interpret the EN-standard (and through this WCAG).
