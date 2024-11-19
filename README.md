@@ -32,3 +32,4 @@ This repository was created from discussions in the W3C Nordic Community Group, 
 # Admin information
 - [Erik Gustafsson Spagnoli](https://github.com/erikgustafsson/)
 - [Sander Nijsingh](https://github.com/sander-nl)
+- [Tobias Christian Jensen](https://github.com/2biazdk)
