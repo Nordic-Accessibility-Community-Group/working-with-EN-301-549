@@ -12,8 +12,8 @@
 
 ## Main goals
 1. To reach a common understanding of how to interpret the EN-standard (and through this WCAG).
-1. Understand differences and simlarities in how different countries monitor the standards.
-1. Gather information of monitoring agencies in different countries.
+1. Understand differences and similarities in how different countries monitor the standards.
+1. Gather information on monitoring agencies in different countries.
 
 ## Why this repository was created
 This repository was created from discussions in the W3C Nordic Community Group, see notes from [“EN 301 549 vs WCAG – Gaps and Bridges” Study Group](https://www.w3.org/community/nordic-accessibility/2024/11/07/en-301-549-vs-wcag-gaps-and-bridges-study-group/).
@@ -25,9 +25,9 @@ This repository was created from discussions in the W3C Nordic Community Group, 
 # Code of conduct
 1. See if your question is an open issue or already in the [Q&A](https://github.com/Nordic-Accessibility-Community-Group/working-with-EN-301-549/discussions/categories/q-a) and please try to read the standards.
 2. This is a safe place for discussions.
-3. We are respecful and nice to each other and everyones opinions.
+3. We are respectful and nice to each other and everyone's opinions.
 4. If you do not agree with something, please write it in a respectful manner.
-5. If you feel like something is a breach of above, contact admins.
+5. If you feel like something is a breach of the above, contact admins.
 
 # Admin information
 - [Erik Gustafsson Spagnoli](https://github.com/erikgustafsson/)
