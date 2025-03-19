@@ -1,11 +1,10 @@
 # The only accessibility statement you need
-⚠️ Always use HTML when possible.
+- ⚠️ Always use HTML when possible.
+- 💡 There is an in-depth article [The accessibility statement at Axess Lab](http://axesslab.com).
 
 ## About the template
 This accessibility statement template is based on the demands from the EU-directive for the public sector [LINK].
 The focus is on assisting the user rather than merely outlining legal requirements and shortcomings/failures. 
-
-💡 There is an in-depth article [The accessibility statement at Axess Lab](http://axesslab.com).
 
 ### What does the law say?
 Well, it is not (as of writing this template) very clear how to do it and the law does not specify an accessibility statement. What is clear is that you need to document and save the documentation. 
