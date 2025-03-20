@@ -1,10 +1,11 @@
 # The only accessibility statement you need
-- ⚠️ Always use HTML when possible.
+- ⚠️ Always use HTML when possible. [PDF: Still Unfit for Human Consumption, 20 Years Later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/).
 - 💡 There is an in-depth article [The accessibility statement at Axess Lab](http://axesslab.com).
+- 💡 Tetra logical has a great article about the EAA [Understanding the European Accessibility Act (EAA), by Léonie Watson](https://tetralogical.com/blog/2025/03/19/understanding-the-eaa/)
 
 ## About the template
-This accessibility statement template is based on the demands from the EU-directive for the public sector [LINK].
-The focus is on assisting the user rather than merely outlining legal requirements and shortcomings/failures. 
+This accessibility statement template for the is based on the demands from the EU-directive for the public sector [LINK].
+The focus is on assisting the user rather than merely outlining legal requirements and shortcomings/failures. THe monitoring agencies are for the EAA referred to as market surveillance.
 
 ### What does the law say?
 Well, it is not (as of writing this template) very clear how to do it and the law does not specify an accessibility statement. What is clear is that you need to document and save the documentation. 
@@ -41,11 +42,12 @@ The directive says that an assessment needs to be made and documented to be able
 Have you encountered something that didn't work? We are grateful for your feedback on what we can do better.
 Contact us and we'll make sure you get the help you need quickly. We'll connect with you in a way that works for you.
 
-List contact methods: 
+> List contact methods: 
 - Phone
 - Contact form
-- Email form
+- Email address
 - Chat service
+
 Our support is open on weekdays from 08:00 to 20:00.
 
 ## Accessibility at our destinations / shops
@@ -68,7 +70,10 @@ As a visually impaired user, you may encounter images without descriptive text a
 
 As a user with hearing loss, ....
 
+
 ##### Images lack ALT text
+> This part with detailed errors could be in a collapsable element such as accordion. If you have multiple accordions it's always neat with a "Expand all"-option.
+
 **Description:** Many of the images on the site currently lack alternative text (ALT text) that reads on assistive technology such as screen readers.  
 
 **Action:** We are continuously reviewing our editorial material and correcting missing descriptions.  
@@ -105,21 +110,21 @@ As a user with hearing loss, ....
 ## How we work with accessibility
 We work with Company XYZ as an external accessibility auditor for our websites, apps and ICT (information and communication technologies). Our goal is to go beyond the legal requirement to create the best user experience we can. To ensure that you as a customer feel safe with us, we are constantly learning about accessibility.
 
-## Notifying the supervisory authority
+## Notifying the market surveillance
 The accessibility requirements of the law are considered to be met with the exception of known deficiencies listed in this accessibility statement.
 
 ### How do I report accessibility issues?
 First, tell us about any problem that prevents you from accessing our services. Then we can fix it and help you further. There are details under the heading "We will help you".  If you are not satisfied with our response, you can report to the regulator(s) XYZ (after 28 June 2025). 
 We value your feedback and we list the [fixed issues reported by users.](#fixes)
-> There is no information here yet, so when the reporting service comes out this can be updated.
+> There is no information for the EAA here yet, so when the reporting service comes out this can be updated.
 
 ## Disproportionate burden
-> Add information if you want to claim Disproportionate burden.
+> Add information if you want to claim Disproportionate burden. Remember that the market survellience decides if they approve it.
 
 
 ## Documents
-### VPAT
-[VPAT version 2025-01-01](http://)
+- [VPAT - version 2025-01-01](http://)
+- [Disproportionate burden - version 2025-01-01](http://)
 
 <a name="fixes" />
 
