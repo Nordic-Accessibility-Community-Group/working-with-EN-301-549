@@ -11,7 +11,7 @@ The focus is on assisting the user rather than merely outlining legal requiremen
 Well, it is not (as of writing this template) very clear how to do it and the law does not specify an accessibility statement. What is clear is that you need to document and save the documentation. 
 You also need to report issues to the government agency in each country you are active in.
 
-#### Documentation required
+#### Documentation required for the EAA
 > [CHAPTER IV  Obligations of service providers  Article 13  Obligations of service providers](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0882#cpt_IV)
 > 
 > 2.   Service providers shall prepare the necessary information in accordance with Annex V and shall explain how the services meet the applicable accessibility requirements. **The information shall be made available to the public in written and oral format, including in a manner which is accessible to persons with disabilities.** Service providers shall keep that information for as long as the service is in operation.
@@ -30,6 +30,10 @@ You also need to report issues to the government agency in each country you are 
 > 2. To comply with point 1 of this Annex the service provider may apply in full or in part the harmonised standards and technical specifications, for which references have been published in the Official Journal of the European Union.
 > 
 > 3. The service provider shall provide information demonstrating that the service delivery process and its monitoring ensure compliance of the service with point 1 of this Annex and with the applicable requirements of this Directive.
+
+#### Documentation required for the The Web Directive (WAD)
+[Preamble to the European Web accessibility directive, Recital 44](https://eur-lex.europa.eu/eli/dir/2016/2102/oj/eng#rct_44:~:text=An%20accessibility%20statement)
+> (44) An accessibility statement should be provided by public sector bodies on the compliance of their websites and mobile applications with the accessibility requirements laid down by this Directive. That  accessibility statement should include, where appropriate, the accessible alternatives provided for.
 
 #### Disproportionate burden
 For the public sector the government agencies have been very strict in what they accept as disproportionate burden. In Sweden, Digg has stated that if a company risks bankruptcy by implementing accessibility fixes immediately, it is still required to make the fixes but may plan to do so over a longer period.
