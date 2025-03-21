@@ -46,7 +46,7 @@ The directive says that an assessment needs to be made and documented to be able
 Have you encountered something that didn't work? We are grateful for your feedback on what we can do better.
 Contact us and we'll make sure you get the help you need quickly. We'll connect with you in a way that works for you.
 
-> List contact methods, you need to have multiple ways to conform with the laws and also ensure anonymity through contact form: 
+> Make it easy to give feedback! List contact methods, you need to have multiple ways to conform with the laws and also ensure anonymity through an accessible contact form: 
 - Phone
 - Contact form
 - Email address
@@ -123,6 +123,7 @@ The accessibility requirements of the law are considered to be met with the exce
 First, tell us about any problem that prevents you from accessing our services. Then we can fix it and help you further. There are details under the heading "We will help you".  If you are not satisfied with our response, you can report to the regulator(s) XYZ (after 28 June 2025). 
 We value your feedback and we list the [fixed issues reported by users.](#fixes)
 > There is no information for the EAA here yet, so when the reporting service comes out this can be updated.
+> You need to have internal processes to handle complaints - you support staff also needs to be trained.
 
 ## Disproportionate burden
 > Add information if you want to claim Disproportionate burden. Remember that the market survellience decides if they approve it.
