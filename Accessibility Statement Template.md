@@ -1,4 +1,4 @@
-# The only accessibility statement you need
+# Accessibility statement template
 - ⚠️ Always use HTML when possible. [PDF: Still Unfit for Human Consumption, 20 Years Later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/).
 - 💡 There is an in-depth article [The accessibility statement at Axess Lab](http://axesslab.com).
 - 💡 Tetra logical has a great article about the EAA [Understanding the European Accessibility Act (EAA), by Léonie Watson](https://tetralogical.com/blog/2025/03/19/understanding-the-eaa/)
@@ -46,7 +46,7 @@ The directive says that an assessment needs to be made and documented to be able
 Have you encountered something that didn't work? We are grateful for your feedback on what we can do better.
 Contact us and we'll make sure you get the help you need quickly. We'll connect with you in a way that works for you.
 
-> List contact methods: 
+> List contact methods, you need to have multiple ways to conform with the laws and also ensure anonymity through contact form: 
 - Phone
 - Contact form
 - Email address
@@ -68,15 +68,14 @@ We recognise that not everything is fully accessible to all our visitors. This i
 
 ### Our websites
 #### TheMainSite.com
-> Here you will find a list of errors that you are aware of.
+> Here you will find a list of errors that you are aware of. It is recommended to start with a general easy-to-read description on what different user group can encounter such as the following example.
 
 As a visually impaired user, you may encounter images without descriptive text and forms not reading correctly in the screen reader.
 
 As a user with hearing loss, ....
 
-
+> This part with detailed errors could be in a collapsable element such as accordion. If you have multiple accordions it's always neat with a "Expand all"-option. The following example is a way to put in an issue. Remember that even though the laws says you need to address issues covered by the law - this takes time to evaluate and it is better to focus on the user experience instead of compliance. If you do that - you will cover most of the legalities too.
 ##### Images lack ALT text
-> This part with detailed errors could be in a collapsable element such as accordion. If you have multiple accordions it's always neat with a "Expand all"-option.
 
 **Description:** Many of the images on the site currently lack alternative text (ALT text) that reads on assistive technology such as screen readers.  
 
@@ -112,7 +111,10 @@ As a user with hearing loss, ....
 > Here you list the errors you know about.
 
 ## How we work with accessibility
-We work with Company XYZ as an external accessibility auditor for our websites, apps and ICT (information and communication technologies). Our goal is to go beyond the legal requirement to create the best user experience we can. To ensure that you as a customer feel safe with us, we are constantly learning about accessibility.
+> 1. Describe how you actually test the sites, apps and physical accessibility.
+> 2. Strive for always doing beyond the legal requirements - accessibility is for the users.
+> 3. Describe how you ensure that you learn continously about accessibility and embed it into processes.
+> 4. Do you partner with accessibility specialist companies?
 
 ## Notifying the market surveillance
 The accessibility requirements of the law are considered to be met with the exception of known deficiencies listed in this accessibility statement.
