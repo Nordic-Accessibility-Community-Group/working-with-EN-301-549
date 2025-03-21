@@ -139,3 +139,7 @@ We value your feedback and we list the [fixed issues reported by users.](#fixes)
 We have fixed the following user reported issues.
 1. Issue 1:  Checkout readout problems with JAWS screen reader fixed.
 2. Issue 34: Chatbot message discoverability fixed for Eye control users.
+
+## Updated date
+> You should regularly update this template. A minimum of yearly.
+2025-06-28
