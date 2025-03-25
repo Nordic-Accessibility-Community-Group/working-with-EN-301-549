@@ -87,6 +87,7 @@ As a user with hearing loss, ....
 > Here you list the errors you know about.
 
 ### Accessibility of the apps
+> Make sure there are anchor links to each section so you can link directly to the correct heading from the Appstore or Google Play. (For example: mainsite.com/access#primary-app-iOS)
 #### Primary app (iOS)
 > Here you list the errors you know about.
 #### Primary app Android)
