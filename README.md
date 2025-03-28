@@ -1,6 +1,7 @@
 # Working with EN-301 549
 1. Use [discussions](https://github.com/Nordic-Accessibility-Community-Group/working-with-EN-301-549/discussions) for asking questions and for discussing topics.
 1. Use [issues](https://github.com/Nordic-Accessibility-Community-Group/working-with-EN-301-549/issues) only for repository changes (not for questions in general).
+2. Please use the [Accessibility statement template](https://github.com/Nordic-Accessibility-Community-Group/working-with-EN-301-549/blob/main/Accessibility%20Statement%20Template.md) for documentation needs.
 
 ## What it is for
 1. How to understand the EN-standard and how monitoring works in different countries.
