@@ -1,15 +1,17 @@
 # Accessibility statement template
 - ⚠️ Always use HTML when possible. [PDF: Still Unfit for Human Consumption, 20 Years Later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/).
-- 💡 There is an in-depth article [The accessibility statement at Axess Lab](http://axesslab.com).
+- 💡 There is an in-depth article [The accessibility statement at Axess Lab](https://axesslab.com/accessibility-statement-for-the-eaa).
 - 💡 Tetra logical has a great article about the EAA [Understanding the European Accessibility Act (EAA), by Léonie Watson](https://tetralogical.com/blog/2025/03/19/understanding-the-eaa/)
 
 ## About the template
-This accessibility statement template for the is based on the demands from the EU-directive for the public sector [LINK].
+This accessibility statement template for the is based on the demands from the EU-directive for the public sector.
 The focus is on assisting the user rather than merely outlining legal requirements and shortcomings/failures. THe monitoring agencies are for the EAA referred to as market surveillance.
 
 ### What does the law say?
 Well, it is not (as of writing this template) very clear how to do it and the law does not specify an accessibility statement. What is clear is that you need to document and save the documentation. 
 You also need to report issues to the government agency in each country you are active in.
+
+You need to describe the accessibility or non-accessibility of products in your online store.
 
 #### Documentation required for the EAA
 > [CHAPTER IV  Obligations of service providers  Article 13  Obligations of service providers](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0882#cpt_IV)
