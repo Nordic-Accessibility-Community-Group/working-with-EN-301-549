@@ -10,7 +10,7 @@
 | Croatia              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Cyprus               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Czechia              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
-| Denmark              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
+| Denmark              | ❓ Unknown          |   N/A                      | <ul><li>Sikkerhedsstyrelsen</li><li>Energistyrelsen</li><li>Trafikstyrelsen</li><li>Søfartsstyrelsen</li></ul> | [Hvem fører kontrol med hvad i tilgængelighedsloven?](https://useit-consulting.dk/aktuelt/hvem-forer-kontrol-med-hvad-i-tilgaengelighedsloven/) |
 | Estonia              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Finland              |  ✔️ Yes             |   [Saavutettavuusvaatimukset](https://www.saavutettavuusvaatimukset.fi/fi/digipalvelulain-vaatimukset/muutokset-digipalvelulakiin) | <ul><li>[Saavutettavuusvaatimukset](https://www.saavutettavuusvaatimukset.fi/)</li></ul> | |
 | France               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
