@@ -17,14 +17,13 @@
 | Germany              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Greece               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Hungary              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
-| Iceland              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Ireland              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Italy                | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Latvia               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Lithuania            | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Luxembourg           | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Malta                | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
-| Netherlands          | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
+| Netherlands          | ❓ Unknown          |   N/A                      | <ul><li>Autoriteit Consument & Markt (ACM)</li><li>Autoriteit Financiële Markten (AFM)</li><li>Commissariaat voor de Media (CvdM)</li><li>Rijksinspectie Digitale Infrastructuur (RDI)</li><li>Inspectie Leefomgeving en Transport (ILT)</li><li>Inspectie Justitie en Veiligheid</li> |                        |
 | Poland               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Portugal             | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Romania              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
@@ -44,5 +43,6 @@
 | Country              | Demands statement   | Source for statement claim | Monitoring agencies | Additional information |
 | :------------------- | :------------------ | :------------------------- | :------------------ | :--------------------- |
 | Norway               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
+| Iceland              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | United Kingdom       | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Canada               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
