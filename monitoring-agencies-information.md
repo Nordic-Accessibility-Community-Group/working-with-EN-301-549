@@ -39,10 +39,15 @@
 | Faroe Islands        | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Åland                | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 
-## Non EU countries
+## EEA EFTA (European Economic Area, The European Free Trade Association)
 | Country              | Demands statement   | Source for statement claim | Monitoring agencies | Additional information |
 | :------------------- | :------------------ | :------------------------- | :------------------ | :--------------------- |
-| Norway               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Iceland              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
+| Liechtenstein        | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
+| Norway               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
+
+## Other non EU countries
+| Country              | Demands statement   | Source for statement claim | Monitoring agencies | Additional information |
+| :------------------- | :------------------ | :------------------------- | :------------------ | :--------------------- |
 | United Kingdom       | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Canada               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
