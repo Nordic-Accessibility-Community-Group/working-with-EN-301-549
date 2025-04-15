@@ -7,12 +7,13 @@
 | :------------------- | :------------------ | :------------------------- | :------------------ | :--------------------- |
 | Austria              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Belgium              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
+| Bulgaria             | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Croatia              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Cyprus               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Czechia              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Denmark              | ❓ Unknown          |   N/A                      | <ul><li>Sikkerhedsstyrelsen</li><li>Energistyrelsen</li><li>Trafikstyrelsen</li><li>Søfartsstyrelsen</li></ul> | [Hvem fører kontrol med hvad i tilgængelighedsloven?](https://useit-consulting.dk/aktuelt/hvem-forer-kontrol-med-hvad-i-tilgaengelighedsloven/) |
 | Estonia              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
-| Finland              |  ✔️ Yes             |   [Saavutettavuusvaatimukset](https://www.saavutettavuusvaatimukset.fi/fi/digipalvelulain-vaatimukset/muutokset-digipalvelulakiin) | <ul><li>[Saavutettavuusvaatimukset](https://www.saavutettavuusvaatimukset.fi/)</li></ul> | |
+| Finland              |  ✔️ Yes             |   [Saavutettavuusvaatimukset](https://www.saavutettavuusvaatimukset.fi/fi/digipalvelulain-vaatimukset/muutokset-digipalvelulakiin) | <ul><li>[Traficom](https://www.traficom.fi/fi/traficom/esteettomyys)</li></ul> | |
 | France               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Germany              | ❓ Unknown          |   N/A                      | Gemeinsame Marktüberwachung der Länder für die Barrierefreiheit von Produkten und Dienstleistungen (MLBF)          |                        |
 | Greece               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
