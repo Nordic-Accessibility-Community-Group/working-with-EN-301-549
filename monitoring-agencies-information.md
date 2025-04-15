@@ -14,7 +14,7 @@
 | Estonia              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Finland              |  ✔️ Yes             |   [Saavutettavuusvaatimukset](https://www.saavutettavuusvaatimukset.fi/fi/digipalvelulain-vaatimukset/muutokset-digipalvelulakiin) | <ul><li>[Saavutettavuusvaatimukset](https://www.saavutettavuusvaatimukset.fi/)</li></ul> | |
 | France               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
-| Germany              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
+| Germany              | ❓ Unknown          |   N/A                      | Gemeinsame Marktüberwachung der Länder für die Barrierefreiheit von Produkten und Dienstleistungen (MLBF)          |                        |
 | Greece               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Hungary              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Ireland              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
