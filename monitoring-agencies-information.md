@@ -21,7 +21,7 @@
 | Italy                | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Latvia               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Lithuania            | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
-| Luxembourg           | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
+| Luxembourg           | ❓ Unknown          |   N/A                      | [OSAPS (Office de la Surveillance de l'Accessibilité des Produits et Services)](https://osaps.lu)          |                        |
 | Malta                | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Netherlands          | ❓ Unknown          |   N/A                      | <ul><li>Autoriteit Consument & Markt (ACM)</li><li>Autoriteit Financiële Markten (AFM)</li><li>Commissariaat voor de Media (CvdM)</li><li>Rijksinspectie Digitale Infrastructuur (RDI)</li><li>Inspectie Leefomgeving en Transport (ILT)</li><li>Inspectie Justitie en Veiligheid</li> |                        |
 | Poland               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
