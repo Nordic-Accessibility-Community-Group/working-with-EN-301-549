@@ -14,12 +14,12 @@
 | Denmark              | ❓ Unknown          |   N/A                      | <ul><li>Sikkerhedsstyrelsen</li><li>Energistyrelsen</li><li>Trafikstyrelsen</li><li>Søfartsstyrelsen</li></ul> | [Hvem fører kontrol med hvad i tilgængelighedsloven?](https://useit-consulting.dk/aktuelt/hvem-forer-kontrol-med-hvad-i-tilgaengelighedsloven/) |
 | Estonia              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Finland              |  ✔️ Yes             |   [Saavutettavuusvaatimukset](https://www.saavutettavuusvaatimukset.fi/fi/digipalvelulain-vaatimukset/muutokset-digipalvelulakiin) | <ul><li>[Traficom](https://www.traficom.fi/fi/traficom/esteettomyys)</li></ul> | |
-| France               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
+| France               | ❓ Unknown          |   N/A                      | [Référentiel Général d’Accessibilité pour les Administrations (RGAA)](https://accessibilite.numerique.gouv.fr/) |  [ Article from Tgpi](https://www.tpgi.com/french-law-2005-102-rgaa-and-web-accessibility/) |
 | Germany              | ❓ Unknown          |   N/A                      | Gemeinsame Marktüberwachung der Länder für die Barrierefreiheit von Produkten und Dienstleistungen (MLBF)          |                        |
 | Greece               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Hungary              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Ireland              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
-| Italy                | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
+| Italy                | ❓ Unknown          |   N/A                      | [AGID](https://www.agid.gov.it/en/intervention-areas/accessibility-usability) | [Article from Tpgi about The Stanca Act, the Italian digital accessibility law](https://www.tpgi.com/understanding-the-stanca-act-italys-digital-accessibility-law/) |
 | Latvia               | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Lithuania            | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Luxembourg           | ❓ Unknown          |   N/A                      | [OSAPS (Office de la Surveillance de l'Accessibilité des Produits et Services)](https://osaps.lu)          |                        |
