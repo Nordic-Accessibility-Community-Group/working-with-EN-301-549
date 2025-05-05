@@ -8,10 +8,10 @@ This accessibility statement template for the is based on the demands from the E
 The focus is on assisting the user rather than merely outlining legal requirements and shortcomings/failures. THe monitoring agencies are for the EAA referred to as market surveillance.
 
 ### What does the law say?
-Well, it is not (as of writing this template) very clear how to do it and the law does not specify an accessibility statement. What is clear is that you need to document and save the documentation. 
-You also need to report issues to the government agency in each country you are active in.
+It isn't currently very clear what an accessibility statement is expected to look like, and the law doesn't specify a need to have one at all. What is clear is that you need to document your accessibility compliance status and make this documentation available to your users.
+You also need to report any known accessibility issues to the appropriate government agency for each country you're active in.
 
-You need to describe the accessibility or non-accessibility of products in your online store.
+You need to describe the accessibility or inaccessibility of products in your online store.
 
 #### Documentation required for the EAA
 > [CHAPTER IV  Obligations of service providers  Article 13  Obligations of service providers](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0882#cpt_IV)
@@ -45,10 +45,10 @@ The directive says that an assessment needs to be made and documented to be able
 # Accessibility at [NAME of Company]
 
 ## We will help you
-Have you encountered something that didn't work? We are grateful for your feedback on what we can do better.
-Contact us and we'll make sure you get the help you need quickly. We'll connect with you in a way that works for you.
+Have you encountered something that didn't work? We'd be grateful for your feedback on how we can improve.
+Contact us and we'll get back to you in a way that suits you, and make sure you get the help you need as soon as possible.
 
-> Make it easy to give feedback! List contact methods, you need to have multiple ways to conform with the laws and also ensure anonymity through an accessible contact form: 
+> Make it easy to give feedback! Offer a list of contact methods, as you need to have multiple ways to conform with the laws. One of the options must be a contact form which ensures anonymity: 
 - Phone
 - Contact form
 - Email address
@@ -57,7 +57,7 @@ Contact us and we'll make sure you get the help you need quickly. We'll connect 
 Our support is open on weekdays from 08:00 to 20:00.
 
 ## Accessibility at our destinations / shops
-As a guest, it is important to feel confident about the whole experience from purchase to return. That's why we list the different situations in our destinations so that you can prepare before your visit and ask for the support you need.
+As a guest, it's important to feel confident about the whole experience from purchase to return. That's why we list the different situations at our destinations, so you can prepare before your visit and ask for the support you need.
 - [Gran Canaria](http://)
 - [Åre](http://)
 - [Thailand](http://)
@@ -66,70 +66,70 @@ As a guest, it is important to feel confident about the whole experience from pu
 We offer special guided tours with a guide.
 
 ## How accessible are our digital services?
-We recognise that not everything is fully accessible to all our visitors. This is something we are working to address. We would be very grateful if you could report any issues to [customer service](http://) so that we can make the experience better for everyone. In this section, we describe the accessibility of our websites, apps, social media and other services.
+Although we're committed to accessibility, we recognise that not everything is fully accessible to all our visitors at this time. This is something we're working to address, and we'd be very grateful if you could report any issues to [customer service](http://) so we can improve the experience for everyone. In this section, we describe the accessibility of our websites, apps, social media and other services.
 
 ### Our websites
 #### TheMainSite.com
-> Here you will find a list of errors that you are aware of. It is recommended to start with a general easy-to-read description on what different user group can encounter such as the following example.
+> Here you'll write a list of accessibility issues that you're aware of. It's recommended that you start with a general, easy-to-read description on what different user groups may encounter, such as the following example.
 
-As a visually impaired user, you may encounter images without descriptive text and forms not reading correctly in the screen reader.
+As a visually impaired user, you may encounter images without descriptive text and forms which aren't correctly parsed by screen readers.
 
-As a user with hearing loss, ....
+As a user with impaired hearing, ....
 
-> This part with detailed errors could be in a collapsable element such as accordion. If you have multiple accordions it's always neat with a "Expand all"-option. The following example is a way to put in an issue. Remember that even though the laws says you need to address issues covered by the law - this takes time to evaluate and it is better to focus on the user experience instead of compliance. If you do that - you will cover most of the legalities too.
+> For this part with detailed issues you could put each item in a collapsible element such as [details disclosure](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details). If you have multiple such elements it's helpful to provide an "Expand all" option. The following is an example of how to list an issue. Remember that even though the law says you need to address issues covered by the law - this takes time to evaluate and it is better to focus on the user experience instead of compliance. If you do that - you will cover most of the legalities too.
 ##### Images lack ALT text
 
-**Description:** Many of the images on the site currently lack alternative text (ALT text) that reads on assistive technology such as screen readers.  
+**Description:** Many of the images on the site currently lack alternative text (ALT text) which is accessible to assistive technology such as screen readers.  
 
-**Action:** We are continuously reviewing our editorial material and correcting missing descriptions.  
+**Action:** We are continuously reviewing our editorial material and adding missing descriptions.  
 
 **Action by:** June 2025 (Internal reference: TIC-123)
 
 #### ExtraDomain.com
-> Here you list the errors you know about.
+> Here you list the issues you know about.
 
 ### Accessibility of the apps
 > Make sure there are anchor links to each section so you can link directly to the correct heading from the Appstore or Google Play. (For example: mainsite.com/access#primary-app-iOS)
 #### Primary app (iOS)
-> Here you list the errors you know about.
+> Here you list the issues you know about.
 #### Primary app Android)
-> Here you list the errors you know about.
+> Here you list the issues you know about.
 #### Secondary app (iOS)
-> Here you list the errors you know about.
+> Here you list the issues you know about.
 #### Secondary app (Android)
-> Here you list the errors you know about.
+> Here you list the issues you know about.
 ### Social media
 #### Instagram
-> Here you list the errors you know about.
+> Here you list the issues you know about.
 #### Facebook
-> Here you list the errors you know about.
+> Here you list the issues you know about.
 #### YouTube
-> Here you list the errors you know about.
+> Here you list the issues you know about.
 ### Other
 #### Email communication
-> Here you list the errors you know about.
-#### SMS-communication
-> Here you list the errors you know about.
+> Here you list the issues you know about.
+#### SMS communication
+> Here you list the issues you know about.
 #### Ticketing machines
-> Here you list the errors you know about.
+> Here you list the issues you know about.
 
 ## How we work with accessibility
 > 1. Describe how you actually test the sites, apps and physical accessibility.
-> 2. Strive for always doing beyond the legal requirements - accessibility is for the users.
-> 3. Describe how you ensure that you learn continously about accessibility and embed it into processes.
+> 2. Strive to always go beyond the legal requirements - accessibility is for the users.
+> 3. Describe how you ensure that you continuously learn about accessibility and embed it into processes.
 > 4. Do you partner with accessibility specialist companies?
 
 ## Notifying the market surveillance
-The accessibility requirements of the law are considered to be met with the exception of known deficiencies listed in this accessibility statement.
+The accessibility requirements of the law are considered met, with the exception of known deficiencies listed in this accessibility statement.
 
 ### How do I report accessibility issues?
-First, tell us about any problem that prevents you from accessing our services. Then we can fix it and help you further. There are details under the heading "We will help you".  If you are not satisfied with our response, you can report to the regulator(s) XYZ (after 28 June 2025). 
+First, tell us about any problems that prevent you from accessing our services so we can fix them and help you further. There are instructions for how to do so under the heading "We will help you". If you aren't satisfied with our response, you can report us to the regulator(s) XYZ (after 28 June 2025). 
 We value your feedback and we list the [fixed issues reported by users.](#fixes)
-> There is no information for the EAA here yet, so when the reporting service comes out this can be updated.
-> You need to have internal processes to handle complaints - you support staff also needs to be trained.
+> There is no information for the EAA here yet, so when the reporting service is published this can be updated.
+> You need to have internal processes to handle complaints - your support staff also needs to be trained.
 
 ## Disproportionate burden
-> Add information if you want to claim Disproportionate burden. Remember that the market survellience decides if they approve it.
+> Add information if you want to claim Disproportionate burden. Remember that the market surveillance decides whether this claim is valid.
 
 
 ## Documents
@@ -140,9 +140,9 @@ We value your feedback and we list the [fixed issues reported by users.](#fixes)
 
 ## Our list of recent fixes reported by users
 We have fixed the following user reported issues.
-1. Issue 1:  Checkout readout problems with JAWS screen reader fixed.
-2. Issue 34: Chatbot message discoverability fixed for Eye control users.
+1. Issue 1:  Fixed JAWS screen reader announcement issues at checkout.
+2. Issue 34: Fixed hatbot message discoverability for eye control users.
 
 ## Updated date
-> You should regularly update this template. A minimum of yearly.
+> You should regularly update this template, at least annually.
 2025-06-28
