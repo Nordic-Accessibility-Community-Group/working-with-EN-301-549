@@ -141,7 +141,7 @@ We value your feedback and we list the [fixed issues reported by users.](#fixes)
 ## Our list of recent fixes reported by users
 We have fixed the following user reported issues.
 1. Issue 1:  Fixed JAWS screen reader announcement issues at checkout.
-2. Issue 34: Fixed hatbot message discoverability for eye control users.
+2. Issue 34: Fixed chatbot message discoverability for eye control users.
 
 ## Updated date
 > You should regularly update this template, at least annually.
