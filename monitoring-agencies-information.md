@@ -31,7 +31,7 @@
 | Slovakia             | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Slovenia             | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Spain                | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
-| Sweden               | ✔️ Yes               |   [Information om tjänstens tillgänglighet](https://pts.se/digital-inkludering/lagen-om-vissa-produkters-och-tjansters-tillganglighet/information-om-tjanstens-tillganglighet/)     | <ul><li>[PTS](https://pts.se/digital-inkludering/lagen-om-vissa-produkters-och-tjansters-tillganglighet/)</li><li>Mediemyndigheten</li><li>Konsumentverket och Transportstyrelsen</li><li>Myndigheten för tillgängliga medier (MTM)</li></ul>| |
+| Sweden               | ✔️ Yes               |   [Information om tjänstens tillgänglighet](https://pts.se/digital-inkludering/lagen-om-vissa-produkters-och-tjansters-tillganglighet/information-om-tjanstens-tillganglighet/)     | <ul><li>[PTS](https://pts.se/digital-inkludering/lagen-om-vissa-produkters-och-tjansters-tillganglighet/)</li><li>Mediemyndigheten</li><li>Konsumentverket och Transportstyrelsen</li><li>Myndigheten för tillgängliga medier (MTM)</li></ul>| [Supportmaterial from PTS](https://pts.se//nyheter-och-pressmeddelanden/nytt-stod-tillganglighetslagen/) |
 
 ## Autonomous states
 | Country              | Demands statement   | Source for statement claim | Monitoring agencies | Additional information |
