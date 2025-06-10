@@ -5,7 +5,7 @@
 
 | Country              | Demands statement   | Source for statement claim | Monitoring agencies | Additional information |
 | :------------------- | :------------------ | :------------------------- | :------------------ | :--------------------- |
-| Austria              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
+| Austria              | ❓ Unknown          |   N/A                      | Sozialministeriumsservice | [Sozialministeriumsservice](https://www.sozialministerium.gv.at/Themen/Soziales/Menschen-mit-Behinderungen/Behinderung-und-Barrierefreiheit-in-der-Europaeischen-Union-und-International.html) |
 | Belgium              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Bulgaria             | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
 | Croatia              | ❓ Unknown          |   N/A                      | ❓ Unknown          |                        |
