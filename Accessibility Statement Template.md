@@ -1,6 +1,7 @@
 # Accessibility statement template
 - ⚠️ Always use HTML when possible. [PDF: Still Unfit for Human Consumption, 20 Years Later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/).
 - 💡 There is an in-depth article [The accessibility statement at Axess Lab](https://axesslab.com/accessibility-statement-for-the-eaa).
+- 💡 Information about monitoring agencies across the EU [Table of countries under the EAA](https://github.com/Nordic-Accessibility-Community-Group/working-with-EN-301-549/blob/main/monitoring-agencies-information.md)
 - 💡 An implemented live version can be found at [Accessibility Cloud](https://www.accessibilitycloud.com/).
 - 💡 Tetra logical has a great article about the EAA [Understanding the European Accessibility Act (EAA), by Léonie Watson](https://tetralogical.com/blog/2025/03/19/understanding-the-eaa/)
 
