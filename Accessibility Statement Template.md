@@ -9,10 +9,10 @@ This accessibility statement template for the is based on the demands from the E
 The focus is on assisting the user rather than merely outlining legal requirements and shortcomings/failures. THe monitoring agencies are for the EAA referred to as market surveillance.
 
 ### What does the law say?
-It isn't currently very clear what an accessibility statement is expected to look like, and the law doesn't specify a need to have one at all. What is clear is that you need to document your accessibility compliance status and make this documentation available to your users.
-You also need to report any known accessibility issues to the appropriate government agency for each country you're active in.
+It isn't currently very clear what an accessibility statement is expected to look like, many require one which you can see in the list [Table of countries under the EAA](https://github.com/Nordic-Accessibility-Community-Group/working-with-EN-301-549/blob/main/monitoring-agencies-information.md). What is clear is that you must document your accessibility compliance status and make this documentation available to your users.
+You need to report any known accessibility issues to the appropriate government agency for each country you're active in.
 
-You need to describe the accessibility or inaccessibility of products in your online store.
+You also need to describe the accessibility or inaccessibility of products in your online store.
 
 #### Documentation required for the EAA
 > [CHAPTER IV  Obligations of service providers  Article 13  Obligations of service providers](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0882#cpt_IV)
@@ -119,6 +119,7 @@ As a user with impaired hearing, ....
 > 2. Strive to always go beyond the legal requirements - accessibility is for the users.
 > 3. Describe how you ensure that you continuously learn about accessibility and embed it into processes.
 > 4. Do you partner with accessibility specialist companies?
+> 5. How do you comply with the EAA? Are you following EN 301 549 and WCAG?
 
 ## Notifying the market surveillance
 The accessibility requirements of the law are considered met, with the exception of known deficiencies listed in this accessibility statement.
