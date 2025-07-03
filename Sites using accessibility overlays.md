@@ -9,6 +9,9 @@
 
 ## EU countries
 
+### Finland
+https://ivakonferens.se/fi/saavutettavuus/ (selma)
+
 ### Sweden
 - https://hags.com - (Selma)
 - https://www.hederaassistans.se (Selma)
@@ -28,3 +31,16 @@
 - https://bizmaker.se
 - http://zara.se (EqualWeb)
 - https://uropenn.se/
+- https://www.wettex.se/accessibility (accessibe)
+- https://www.ingelas.se/tillganglighet/ (accessibe)
+- https://www.tress.com/se/om-oss/tillganglighetsredogorelse (selma)
+- https://www.agb-pharma.com/tillganglighet/ (accessibe)
+- https://www.tressutemiljo.se/om-oss/tillganglighetsredogorelse (accessibe)
+- https://safira.com/se/tillganglighetsredogorelse (selma)
+- https://www.travsport.se/svensk-travsport/om-webbplatsen/tillganglighetsredogorelse/ (selma)
+- https://www.dios.se/om-dios/tillganglighetsredogorelse/ (selma)
+- https://goldenhits.se/tillganglighetsredogorelse/ (selma)
+- https://www.aktivitus.se/tillganglighetsutlatande/ (accessibe)
+- https://se.moroccanoil.com/pages/accessibility-statement (accessibe)
+- https://www.amalstravet.se/mer/tillganglighetsredogorelse/ (selma)
+- https://gotlandsboenden.se/accessibility-statement/ (elementor)
