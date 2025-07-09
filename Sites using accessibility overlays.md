@@ -6,6 +6,7 @@
 ## Resources
 - [Overlay Factsheet](https://overlayfactsheet.com/en/#what-is-a-web-accessibility-overlay) is a resource signed by almost 1000 accessibility professionals around the world.
 - [Article in Swedish about accessibility overlays](https://webperf.se/articles/t12toverlagg/).
+- [AccessiByeBye](https://www.accessibyebye.org/ ) is a web browser plugin to block overlays. They have a list of sites blocked by the plugin.
 
 ## EU countries
 
