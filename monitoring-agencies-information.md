@@ -1,5 +1,6 @@
 # Table of countries under the EAA
 > Please help keep this list up to date with pull requests (PR).
+> Note that the tools for reporting to the monitoring agencies in different countries could be just for one specific area (such as E-books). If you do find incorrect or missing information please add a PR, message through [Slack](http://web-a11y.slack.com/), [LinkedIn](http://a11y.se/) or send an email to [erik@axesslab.com](mailto:erik@axesslab.com).
 
 ## EU countries
 
