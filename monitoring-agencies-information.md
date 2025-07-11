@@ -50,5 +50,6 @@
 ## Other non EU countries
 | Country              | Demands statement   | Monitoring agencies  | Reporting tools | Additional information |
 | :------------------- | :------------------ | :------------------- | :-------------- | :--------------------- |
-| United Kingdom       | ❓ Unknown          |  ❓ Unknown          | ❓ Unknown      |                        |
 | Canada               | ❓ Unknown          |  ❓ Unknown          | ❓ Unknown      |                        |
+| Switzerland          | ❓ Unknown          |  ❓ Unknown          | ❓ Unknown      |                        |
+| United Kingdom       | ❓ Unknown          |  ❓ Unknown          | ❓ Unknown      |                        |
