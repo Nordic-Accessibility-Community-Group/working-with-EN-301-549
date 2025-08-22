@@ -4,6 +4,7 @@
 - 💡 Information about monitoring agencies across the EU [Table of countries under the EAA](https://github.com/Nordic-Accessibility-Community-Group/working-with-EN-301-549/blob/main/monitoring-agencies-information.md)
 - 💡 An implemented live version can be found at [Accessibility Cloud](https://www.accessibilitycloud.com/).
 - 💡 Tetra logical has a great article about the EAA [Understanding the European Accessibility Act (EAA), by Léonie Watson](https://tetralogical.com/blog/2025/03/19/understanding-the-eaa/)
+- [List of sites with accessibility statements](https://codeberg.org/yatil/accessibility-statements)
 
 ## About the template
 This accessibility statement template for the is based on the demands from the EU-directive for the public sector.
