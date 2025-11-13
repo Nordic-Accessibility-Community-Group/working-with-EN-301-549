@@ -114,7 +114,7 @@
   <tr>
     <td>Greece</td>
     <td>✖️ No</td>
-    <td><ul><li>The Ministry of Economy & Development designates and coordinates the surveillance authorities.</li><li>Telecommunications: <a href="https://www.eett.gr/en/">Hellenic Telecommunications and Post Commission</a></li><li>Banking/financial services: <a href="https://www.bankofgreece.gr/en/homepage">Bank of Greece</a></li><li>Commerce and e-commerce platforms: Ministry of Development & Investments through the <a href="https://kataggelies.mindev.gov.gr/">General Secretariat for Commerce & Consumer Protection</a></li><li>https://kataggelies.mindev.gov.gr/</li></ul>The above authorities collaborate with organizations of people with disabilities for real-use inspections, as stipulated by Law 4994/2022.         </td>
+    <td><ul><li>The Ministry of Economy & Development designates and coordinates the surveillance authorities.</li><li>Telecommunications: <a href="https://www.eett.gr/en/">Hellenic Telecommunications and Post Commission</a></li><li>Banking/financial services: <a href="https://www.bankofgreece.gr/en/homepage">Bank of Greece</a></li><li>Commerce and e-commerce platforms: Ministry of Development & Investments through the <a href="https://kataggelies.mindev.gov.gr/">General Secretariat for Commerce & Consumer Protection</a></li></ul>The above authorities collaborate with organizations of people with disabilities for real-use inspections, as stipulated by Law 4994/2022.         </td>
     <td>❓ Unknown</td>
     <td><a href="https://eur-lex.europa.eu/legal-content/EL/TXT/PDF/?uri=NIM:202207302">Government Gazette (Official Journal of the Hellenic Republic) that introduces the Law 4994/2022 for compliance to EAA for Greece</a>. </td>
   </tr>
