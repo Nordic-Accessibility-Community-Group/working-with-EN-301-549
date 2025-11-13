@@ -15,7 +15,7 @@
     <td>Austria</td>
     <td>❓ Unknown</td>
     <td>Sozialministeriumsservice</td>
-    <td><ul><li>Email: <a href="mailto:marktueberwachung-bafg@socialministeriumservice.gv.at">marktueberwachung-bafg@socialministeriumservice.gv.at</a>. Reports accespted in German 🇩🇪 and in English 🇬🇧.</li></ul></td>
+    <td><ul><li>Email: <a href="mailto:marktueberwachung-bafg@socialministeriumservice.gv.at">marktueberwachung-bafg@socialministeriumservice.gv.at</a>. Reports accepted in German 🇩🇪 and in English 🇬🇧.</li></ul></td>
     <td>
       <ul>
         <li><a href="https://www.sozialministeriumservice.gv.at/Marktueberwachung_digitale_Barrierefreiheit/Allgemeine_Informationen_zum_Barrierefreiheitsgesetz/Allgemeine-Informationen-zum-Barrierefreiheitsgesetz.de.html">General information from Sozialministeriumsservice</a></li>
