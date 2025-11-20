@@ -7,8 +7,37 @@
 
 ## Table of legal enforcement status
 Type can be Monitoring agencies with authority to take action under the Europen accessibility act (EAA) or civil action.
-| Country              | Type                |  Status              | Additional information | Date added | Date updated |
-| :------------------- | :------------------ |  :------------------ | :--------------------- |:---------- | :---------- |
-| Sweden | Monitoring|  Active monitoring | <ul><li>**Products:** The post and telecommunication agency [(PTS) has started monitoring laptops, smartphones och tablets](https://pts.se//nyheter-och-pressmeddelanden/pts-inleder-marknadskontroll/)! First round includes: <ul><li>EU declaration of conformity (EU-försäkran)</lI><li>Digital product information (Krav på digital information)</li></ul></li><li> **Services:** Phase 1 in [monitoring started by PTS](https://pts.se//nyheter-och-pressmeddelanden/pts-inleder-en-tillsyn-av-e-handelstjanster/). PTS will focus on large E-commerce actors active in Sweden. Focus area now: Startpage, product page and Search function. </li></ul>| 2025-10-15 | 2025-10-23 |
-| Denmark | Monitoring agency | Ongoing process: Early warnings issued. | Authorities in Denmark began in mid-2025 to notify at least one major online retailer of accessibility issues on their website, framed as a warning rather than formal enforcement. No fines or other measures have been reported. As of October 3, 2025, nothing has been publicly communicated. | 2025-10-03 | - |
-| France | Civil action |  Ongoing process: Threat of action. | "Disability organisations in France are [serving four major supermarkets](https://droitpluriel.fr/mise-en-demeure-des-entreprises-auchan-carrefour-e-leclerc-et-picard-surgeles-de-se-conformer-a-leur-obligation-daccessibilite-numerique-pour-leurs-services-de-courses-en-ligne/) with notice for failings against the EAA. They have until 1 Sep to remediate otherwise they'll be taken to court. The story was [reported in mass media](https://www.lefigaro.fr/conso/e-leclerc-carrefour-picard-et-auchan-mis-en-demeure-pour-la-non-accessibilite-de-leurs-sites-aux-malvoyants-20250711), so it's getting traction. Links are in French." [Link to Web A11y Slack thread](https://web-a11y.slack.com/archives/CP6NHEEKD/p1752824021804309?thread_ts=1752824021.804309&cid=CP6NHEEKD).| 2025-07-18 | - |
+<table>
+  <tr>
+    <th>Country</th>
+    <th>Type</th>
+    <th>Status</th>
+    <th>Additional information</th>
+    <th>Date added</th>
+    <th>Date updated</th>
+  </tr>
+  <tr>
+    <td>Sweden</td>
+    <td>Monitoring agency</td>
+    <td>Active monitoring</td>
+    <td><ul><li><strong>Products:</strong> The post and telecommunication agency <a href="https://pts.se//nyheter-och-pressmeddelanden/pts-inleder-marknadskontroll/">(PTS) has started monitoring laptops, smartphones och tablets</a>! First round includes: <ul><li>EU declaration of conformity (EU-försäkran)</lI><li>Digital product information (Krav på digital information)</li></ul></li><li> <strong>Services:</strong> Phase 1 in <a href="https://pts.se//nyheter-och-pressmeddelanden/pts-inleder-en-tillsyn-av-e-handelstjanster/">monitoring started by PTS</a>. PTS will focus on large E-commerce actors active in Sweden. Focus area now: Startpage, product page and Search function. </li></ul></td>
+    <td>2025-10-15</td>
+    <td>2025-10-23</td>
+  </tr>
+  <tr>
+    <td>Denmark</td>
+    <td>Monitoring agency</td>
+    <td>Ongoing process: Early warnings issued.</td>
+    <td>Authorities in Denmark began in mid-2025 to notify at least one major online retailer of accessibility issues on their website, framed as a warning rather than formal enforcement. No fines or other measures have been reported. As of October 3, 2025, nothing has been publicly communicated.</td>
+    <td>2025-10-03</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>France</td>
+    <td>Civil action</td>
+    <td>Ongoing process: Threat of action.</td>
+    <td>"Disability organisations in France are <a href="https://droitpluriel.fr/mise-en-demeure-des-entreprises-auchan-carrefour-e-leclerc-et-picard-surgeles-de-se-conformer-a-leur-obligation-daccessibilite-numerique-pour-leurs-services-de-courses-en-ligne/">serving four major supermarkets</a> with notice for failings against the EAA. They have until 1 Sep to remediate otherwise they'll be taken to court. The story was <a href="https://www.lefigaro.fr/conso/e-leclerc-carrefour-picard-et-auchan-mis-en-demeure-pour-la-non-accessibilite-de-leurs-sites-aux-malvoyants-20250711">reported in mass media</a>, so it's getting traction. Links are in French." <a href="https://web-a11y.slack.com/archives/CP6NHEEKD/p1752824021804309?thread_ts=1752824021.804309&cid=CP6NHEEKD">Link to Web A11y Slack thread</a>.</td>
+    <td>2025-07-18</td>
+    <td>-</td>
+  </tr>
+</table>
