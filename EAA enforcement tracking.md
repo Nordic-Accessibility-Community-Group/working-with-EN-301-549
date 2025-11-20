@@ -40,4 +40,12 @@ Type can be Monitoring agencies with authority to take action under the Europen 
     <td>2025-07-18</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>Netherlands</td>
+    <td>Monitoring agency</td>
+    <td>Active monitoring</td>
+    <td>Consumer and Market Authority ACM in The Netherlands have sent letters to companies around the globe that have e-commerce services in The Netherlands. They've started monitoring the ones that did not respond to their letters. They've shared information in 2 recent events on this. They also mentioned that they start enforcement halfway 2026.</td>
+    <td>2025-11-20</td>
+    <td>-</td>
+  </tr>
 </table>
