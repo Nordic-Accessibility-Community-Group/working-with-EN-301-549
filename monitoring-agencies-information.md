@@ -225,22 +225,99 @@
   </tr>
 </table>
 
+
 ## Autonomous states
-| Country              | Demands statement   | Monitoring agencies | Reporting tools | Additional information |
-| :------------------- | :------------------ | :------------------ | :-------------- | :--------------------- |
-| Greenland            | ❓ Unknown          | ❓ Unknown          | ❓ Unknown      |                        |
-| Faroe Islands        | ❓ Unknown          | ❓ Unknown          | ❓ Unknown      |                        |
-| Åland                | ❓ Unknown          | ❓ Unknown          | ❓ Unknown      |                        |
+<table>
+  <tr>
+    <th>Country</th>
+    <th>Demands statement</th>
+    <th>Monitoring agencies</th>
+    <th>Reporting tools</th>
+    <th>Additional information</th>
+  </tr>
+  <tr>
+    <td>Greenland</td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+  </tr>
+  <tr>
+    <td>Faroe Islands</td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+  </tr>
+  <tr>
+    <td>Åland</td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+  </tr>
+</table>
 
 ## EEA EFTA (European Economic Area, The European Free Trade Association)
-| Country              | Demands statement   | Monitoring agencies | Reporting tools | Additional information |
-| :------------------- | :------------------ | :------------------ | :-------------- | :--------------------- |
-| Iceland              | ❓ Unknown          | ❓ Unknown          | ❓ Unknown      |                        |
-| Liechtenstein        | ❓ Unknown          | ❓ Unknown          | ❓ Unknown      |                        |
-| Norway               | ❓ Unknown          | ❓ Unknown          | ❓ Unknown      |                        |
+<table>
+  <tr>
+    <th>Country</th>
+    <th>Demands statement</th>
+    <th>Monitoring agencies</th>
+    <th>Reporting tools</th>
+    <th>Additional information</th>
+  </tr>
+  <tr>
+    <td>Iceland</td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+  </tr>
+  <tr>
+    <td>Liechtenstein</td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+  </tr>
+  <tr>
+    <td>Norway</td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+  </tr>
+</table>
+
 ## Other non EU countries
-| Country              | Demands statement   | Monitoring agencies  | Reporting tools | Additional information |
-| :------------------- | :------------------ | :------------------- | :-------------- | :--------------------- |
-| Canada               | ❓ Unknown          |  ❓ Unknown          | ❓ Unknown      |                        |
-| Switzerland          | ❓ Unknown          |  ❓ Unknown          | ❓ Unknown      |                        |
-| United Kingdom       | ❓ Unknown          |  ❓ Unknown          | ❓ Unknown      |                        |
+<table>
+  <tr>
+    <th>Country</th>
+    <th>Demands statement</th>
+    <th>Monitoring agencies</th>
+    <th>Reporting tools</th>
+    <th>Additional information</th>
+  </tr>
+  <tr>
+    <td>Canada</td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+  </tr>
+  <tr>
+    <td>Switzerland</td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+  </tr>
+  <tr>
+    <td>United Kingdom</td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+    <td>❓ Unknown  </td>
+  </tr>
+</table>
