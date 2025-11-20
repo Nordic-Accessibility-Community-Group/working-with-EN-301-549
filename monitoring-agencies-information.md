@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>Austria</td>
-    <td>❓ Unknown</td>
+    <td>✔️ Yes</td>
     <td>Sozialministeriumsservice</td>
     <td><ul><li>Email: <a href="mailto:marktueberwachung-bafg@socialministeriumservice.gv.at">marktueberwachung-bafg@socialministeriumservice.gv.at</a>. Reports accepted in German 🇩🇪 and in English 🇬🇧.</li></ul></td>
     <td>
@@ -21,7 +21,7 @@
         <li><a href="https://www.sozialministeriumservice.gv.at/Marktueberwachung_digitale_Barrierefreiheit/Allgemeine_Informationen_zum_Barrierefreiheitsgesetz/Allgemeine-Informationen-zum-Barrierefreiheitsgesetz.de.html">General information from Sozialministeriumsservice</a></li>
         <li>No reporting tool available for companies.</li>
         <li><a href="https://www.sozialministeriumservice.gv.at/Marktueberwachung_digitale_Barrierefreiheit/Informationen_fuer_Verbraucherinnen/Kontaktformular_fuer_Hinweisgeberinnen/Kontaktformular-fuer-Hinweisgeber-innen.de.html">Reporting tool for the public, German 🇩🇪.</a></li>
-        <li><a href="https://www.sozialministeriumservice.gv.at/Marktueberwachung_digitale_Barrierefreiheit/Informationen_fuer_Unternehmen/Informations_und_Dokumentationspflichten/Meldung_der_Nichtkonformitaet/Meldung-der-Nichtkonformitaet.de.html">Information about reporting</a></li></ul>
+        <li><a href="https://www.sozialministeriumservice.gv.at/Marktueberwachung_digitale_Barrierefreiheit/Informationen_fuer_Unternehmen/Informations_und_Dokumentationspflichten/Meldung_der_Nichtkonformitaet/Meldung-der-Nichtkonformitaet.de.html">Information about reporting</a></li><li>Public accessibility statement is required by information directly from the monitoring agency.</li></ul>
     </td>
   </tr>
   <tr>
