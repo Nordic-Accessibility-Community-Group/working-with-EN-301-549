@@ -155,10 +155,22 @@
   </tr>
   <tr>
     <td>Luxembourg</td>
-    <td>✖️ No (Source needed)</td>
+    <td>✖️<a href="https://accessibilite-produits-services.public.lu/en/actualites/obligationsdeclaratives.html">No</a></td>
     <td><a href="https://osaps.lu">OSAPS (Office de la Surveillance de l'Accessibilité des Produits et Services)</a> </td>
     <td><ul><li><a href="https://guichet.public.lu/en/entreprises/commerce/accessibilite-produits-services/declaration-non-conformite-accessibilite-pm.html">Reporting tool: English 🇬🇧, French 🇫🇷 , German 🇩🇪</a><li><li>Email is not accepted as reporting channel.</li></ul></td>
-    <td><a href="https://guichet.public.lu/en/entreprises/commerce/accessibilite-produits-services/declaration-non-conformite-accessibilite-pm.html">🇬🇧 Instructions in English</a></td>
+    <td>
+      <ul>
+        <li>
+          <a href="https://accessibilite-produits-services.public.lu/en/actualites/wcag.html">WCAG: is it sufficient for the European Accessibility Act?"</a>
+        </li>
+        <li>
+          <a href="https://accessibilite-produits-services.public.lu/en/entreprises/demarches/decl.html">🇬🇧 Declaration of non-compliance</a>
+        </li>
+        <li>
+          <a href="https://guichet.public.lu/en/entreprises/commerce/accessibilite-produits-services/declaration-non-conformite-accessibilite-pm.html">🇬🇧 Instructions in English</a>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>Malta</td>
