@@ -39,22 +39,22 @@ Type can be Monitoring agencies with authority to take action under the Europen 
     <td>
       <ul>
         <li>
-          <blockquote>It's an emergency procedure (assignation en référé), meaning courts can demand immediate fixes, not vague promises.</blockquote><br/>
-          <a href="https://www.linkedin.com/posts/ronnyhendriks_accessibility-europeanaccessibilityact-eaa-activity-7401514324759957504-uKhy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJWGMBdqTseucyldNj7MZ8clk1tZOO8cw">LinkedIn post by Ronny Hendricks</a>, <a href="https://a11ywithdiana.substack.com/p/first-french-lawsuits-when-grocery">First french lawsuits: when grocery e-commerce meets accessibility law, A11y explained by Diana</a>, <a href="https://www.interetaagir.org/assignation-en-refere-des-entreprises-auchan-carrefour-e-leclerc-et-picard-surgeles/">Assignation en référé des entreprises Auchan, Carrefour, E. Leclerc et Picard Surgelés (in French)</a>
+          <blockquote>It's an emergency procedure (assignation en référé), meaning courts can demand immediate fixes, not vague promises. <a href="https://www.linkedin.com/posts/ronnyhendriks_accessibility-europeanaccessibilityact-eaa-activity-7401514324759957504-uKhy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJWGMBdqTseucyldNj7MZ8clk1tZOO8cw">LinkedIn post by Ronny Hendricks</a></blockquote>
+          A11y explained by Diana explains the case in <a href="https://a11ywithdiana.substack.com/p/first-french-lawsuits-when-grocery">First french lawsuits: when grocery e-commerce meets accessibility law</a> and a French article is available at <a href="https://www.interetaagir.org/assignation-en-refere-des-entreprises-auchan-carrefour-e-leclerc-et-picard-surgeles/">Assignation en référé des entreprises Auchan, Carrefour, E. Leclerc et Picard Surgelés</a>.
         </li>
         <li>"Disability organisations in France are <a href="https://droitpluriel.fr/mise-en-demeure-des-entreprises-auchan-carrefour-e-leclerc-et-picard-surgeles-de-se-conformer-a-leur-obligation-daccessibilite-numerique-pour-leurs-services-de-courses-en-ligne/">serving four major supermarkets</a> with notice for failings against the EAA. They have until 1 Sep to remediate otherwise they'll be taken to court. The story was <a href="https://www.lefigaro.fr/conso/e-leclerc-carrefour-picard-et-auchan-mis-en-demeure-pour-la-non-accessibilite-de-leurs-sites-aux-malvoyants-20250711">reported in mass media</a>, so it's getting traction. Links are in French." <a href="https://web-a11y.slack.com/archives/CP6NHEEKD/p1752824021804309?thread_ts=1752824021.804309&cid=CP6NHEEKD">Link to Web A11y Slack thread</a>.
         </li>
       </ul>
     </td>
     <td>2025-07-18</td>
-    <td>-</td>
+    <td>2025-12-02</td>
   </tr>
   <tr>
     <td>Netherlands</td>
     <td>Monitoring agency</td>
     <td>Active monitoring</td>
     <td>Consumer and Market Authority ACM in The Netherlands have sent letters to companies around the globe that have e-commerce services in The Netherlands. They've started monitoring the ones that did not respond to their letters. They've shared information in 2 recent events on this. They also mentioned that they start enforcement halfway 2026.</td>
-    <td>2025-12-02</td>
+    <td>2025-11-20</td>
     <td>-</td>
   </tr>
 </table>
