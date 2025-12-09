@@ -105,12 +105,14 @@
     <td><ul><li><a href="https://www.tpgi.com/french-law-2005-102-rgaa-and-web-accessibility/">Article from Tgpi</a></li><li><a href="https://accessibilite.numerique.gouv.fr/">Référentiel Général d’Accessibilité pour les Administrations (RGAA)</a></li></ul></td>
   </tr>
   <tr>
-    <td>Germany</td>
-    <td>❓ Unknown</td>
-    <td>Gemeinsame Marktüberwachung der Länder für die Barrierefreiheit von Produkten und Dienstleistungen (MLBF)</td>
-    <td>❓ Unknown</td>
-    <td>Germany has no central reponsible agency until probably October 2025, but until then they published <a href="https://ms.sachsen-anhalt.de/themen/menschen-mit-behinderungen/aktuelles/marktueberwachungsstelle-der-laender-fuer-die-barrierefreiheit-von-produkten-und-dienstleistungen">interim contact details</a>. </td>
-  </tr>
+		<td>Germany</td>
+		<td>
+			✔️ <a href="https://ms.sachsen-anhalt.de/themen/menschen-mit-behinderungen/aktuelles/marktueberwachungsstelle-der-laender-fuer-die-barrierefreiheit-von-produkten-und-dienstleistungen/katalog-der-fragen-und-antworten-zum-barrierefreiheitsstaerkungsgesetz#c425324">Yes</a>
+		</td>
+		<td><a href="https://ms.sachsen-anhalt.de/themen/menschen-mit-behinderungen/aktuelles/marktueberwachungsstelle-der-laender-fuer-die-barrierefreiheit-von-produkten-und-dienstleistungen" lang="de">Marktüberwachungsstelle der Länder für die Barrierefreiheit von Produkten und Dienstleistungen (MLBF AöR)</a> (Market Surveillance Agency of the States for the Accessibility of Products and Services)</td>
+		<td>Email: <a href="mailto:MLBF@ms.sachsen-anhalt.de">MLBF@ms.sachsen-anhalt.de</a>.</td>
+		<td>The <span lang="de">Marktüberwachungsstelle</span> started its work on 2025-09-29 after ratification of the agency through all states. Productive work will likely start in Q1/2026.</td>
+	</tr>
   <tr>
     <td>Greece</td>
     <td>✖️ No</td>
