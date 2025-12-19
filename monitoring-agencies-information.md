@@ -70,7 +70,16 @@
     <td>Denmark</td>
     <td>✔️ <a href="https://www.retsinformation.dk/eli/lta/2022/801/pdf">Yes</a></td>
     <td><ul><li>Sikkerhedsstyrelsen</li><li>Energistyrelsen</li><li>Trafikstyrelsen</li><li>Søfartsstyrelsen</li><li>Finanstilsynet</ul></td>
-    <td>❓ Unknown</td>
+    <td>
+		<ul>
+			<li>Report exemptions (companies): 
+				<ul>
+					<li> <a href="https://virk.dk/myndigheder/stat/SIK/selvbetjening/declaration-of-exemption-from-accessibility-requirements">Declaration of Exemption from Accessibility Requirements, Reporting tool, in English 🇬🇧</a></li>
+					<li><a href="https://virk.dk/myndigheder/stat/SIK/selvbetjening/declaration-of-exemption-from-accessibility-requirements">Declaration of Exemption from Accessibility Requirements, Reporting tool, in Danish 🇩🇰</a></li>
+				</ul>
+			<li>Report non-compliance through email (companies): <a href="mailto:sik@sik.dk">sik@sik.dk</a> in English 🇬🇧 or Danish 🇩🇰</li>
+		</ul>
+	</td>
     <td><ul><li><a href="https://useit-consulting.dk/aktuelt/hvem-forer-kontrol-med-hvad-i-tilgaengelighedsloven/">Hvem fører kontrol med hvad i tilgængelighedsloven?</a></li><li><a href="https://forlaens.com/digital-tilgaengelighed-i-danmark-en-praktisk-vejledning/">Digital Tilgængelighed i Danmark: En Praktisk Vejledning til Lovgivningen (EAA)</a></li></ul></td>
   </tr>
   <tr>
