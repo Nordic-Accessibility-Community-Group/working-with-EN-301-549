@@ -5,7 +5,7 @@
 ## Resources
 - [Global Law and Policy by Lainey Feingold](https://www.lflegal.com/global-law-and-policy/)
 
-## Table of legal enforcement status
+## Table of legal enforcement status in the EU
 Type can be Monitoring agencies with authority to take action under the Europen accessibility act (EAA) or civil action.
 <table>
   <tr>
@@ -17,12 +17,16 @@ Type can be Monitoring agencies with authority to take action under the Europen 
     <th>Date updated</th>
   </tr>
   <tr>
-    <td>Sweden</td>
+    <td>Czech Republic</td>
     <td>Monitoring agency</td>
-    <td>Active monitoring</td>
-    <td><ul><li><strong>Products:</strong> The post and telecommunication agency <a href="https://pts.se//nyheter-och-pressmeddelanden/pts-inleder-marknadskontroll/">(PTS) has started monitoring laptops, smartphones och tablets</a>! First round includes: <ul><li>EU declaration of conformity (EU-försäkran)</lI><li>Digital product information (Krav på digital information)</li></ul></li><li> <strong>Services:</strong> Phase 1 in <a href="https://pts.se//nyheter-och-pressmeddelanden/pts-inleder-en-tillsyn-av-e-handelstjanster/">monitoring started by PTS</a>. PTS will focus on large E-commerce actors active in Sweden. Focus area now: Startpage, product page and Search function. </li></ul></td>
-    <td>2025-10-15</td>
-    <td>2025-10-23</td>
+    <td>Active</td>
+    <td>
+      <ul>
+        <li>"The Czech Republic’s supervisory authority plans to publish lists of non-compliant products and services, particularly under the new General Product Safety Regulation (GPSR) and the European Accessibility Act (EAA), enabling market surveillance and enforcement." Source: <a href="https://www.deque.com/blog/early-signs-of-eaa-enforcement-across-europe">Early signs of EAA enforcement across Europe, by Matthew Luken.</a></li>
+      </ul>
+    </td>
+    <td>2025-12-19</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>Denmark</td>
@@ -50,11 +54,68 @@ Type can be Monitoring agencies with authority to take action under the Europen 
     <td>2025-12-02</td>
   </tr>
   <tr>
+    <td>Germany</td>
+    <td>Civil action</td>
+    <td>Active</td>
+    <td>
+      <ul>
+        <li> "German BIK testing centers says that sites using Overlay tools cannot currently make a reliable statement regarding conformity according to EN/WCAG." Source: <a href="https://chrisyoong.com/blog/germany-rejects-accessibility-overlays-for-eaa-compliance">German auditors reject accessibility overlays in EAA context, by Chris Yoong.</a></li>
+      </ul>
+    </td>
+    <td>2025-12-19</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Ireland</td>
+    <td>Monitoring agency</td>
+    <td>Active</td>
+    <td>
+      <ul>
+        <li>"The Commission for Communications Regulation (ComReg) has started to process consumer complaints, including one against Ireland’s largest mobile telecommunications company, Three. It’s been reported that Three has been responsive and active in the wake of the formal processing of the complaint." Source: <a href="https://www.deque.com/blog/early-signs-of-eaa-enforcement-across-europe">Early signs of EAA enforcement across Europe, by Matthew Luken.</a></li>
+      </ul>
+    </td>
+    <td>2025-12-19</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>Netherlands</td>
     <td>Monitoring agency</td>
     <td>Active monitoring</td>
     <td>Consumer and Market Authority ACM in The Netherlands have sent letters to companies around the globe that have e-commerce services in The Netherlands. They've started monitoring the ones that did not respond to their letters. They've shared information in 2 recent events on this. They also mentioned that they start enforcement halfway 2026.</td>
     <td>2025-11-20</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Sweden</td>
+    <td>Monitoring agency</td>
+    <td>Active monitoring</td>
+    <td><ul><li><strong>Products:</strong> The post and telecommunication agency <a href="https://pts.se//nyheter-och-pressmeddelanden/pts-inleder-marknadskontroll/">(PTS) has started monitoring laptops, smartphones och tablets</a>! First round includes: <ul><li>EU declaration of conformity (EU-försäkran)</lI><li>Digital product information (Krav på digital information)</li></ul></li><li> <strong>Services:</strong> Phase 1 in <a href="https://pts.se//nyheter-och-pressmeddelanden/pts-inleder-en-tillsyn-av-e-handelstjanster/">monitoring started by PTS</a>. PTS will focus on large E-commerce actors active in Sweden. Focus area now: Startpage, product page and Search function. </li></ul></td>
+    <td>2025-10-15</td>
+    <td>2025-10-23</td>
+  </tr>
+</table>
+
+## Table of Non-EU legal enforcement status
+Type can be Government agency, Monitoring agencies with authority to take action under the Europen accessibility act (EAA) or civil action.
+<table>
+  <tr>
+    <th>Country</th>
+    <th>Type</th>
+    <th>Status</th>
+    <th>Additional information</th>
+    <th>Date added</th>
+    <th>Date updated</th>
+  </tr>
+  <tr>
+    <td>Norway</td>
+    <td>Government agency</td>
+    <td>Active</td>
+    <td>
+      <ul>
+        <li>"The situation began when the Norwegian Health Authority sent a notification of regulatory non-compliance to HelsaMi (a medical app used by nearly half a million residents in central Norway). They had identified many digital accessibility errors and issued an order of correction accordingly. HelsMI worked to reduce the defect list, but many errors remained even as the initial deadline passed. The authority then issued a decision imposing a compulsory fine and set a December 19 deadline to correct the remaining errors. After this, daily fines of 50,000 kroner (approximately USD$5,360) will start." Source: <a href="https://www.deque.com/blog/early-signs-of-eaa-enforcement-across-europe">Early signs of EAA enforcement across Europe, by Matthew Luken.</a></li>
+      </ul>
+    </td>
+    <td>2025-12-19</td>
     <td>-</td>
   </tr>
 </table>
