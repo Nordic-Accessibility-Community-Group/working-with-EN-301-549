@@ -124,6 +124,10 @@
 					<li><a href="https://virk.dk/myndigheder/stat/SIK/selvbetjening/declaration-of-exemption-from-accessibility-requirements">Declaration of Exemption from Accessibility Requirements, Reporting tool, in Danish 🇩🇰</a></li>
 				</ul>
 			<li>Report non-compliance through email (companies): <a href="mailto:sik@sik.dk">sik@sik.dk</a> in English 🇬🇧 or Danish 🇩🇰</li>
+			<li>Reporting tool (for the public): 
+				<ul>
+					<li><a href="https://produkter.dk,">Reporting tool for products, in Danish 🇩🇰</a></li>
+				</ul>
 		</ul>
 	</td>
     <td><ul><li><a href="https://useit-consulting.dk/aktuelt/hvem-forer-kontrol-med-hvad-i-tilgaengelighedsloven/">Hvem fører kontrol med hvad i tilgængelighedsloven?</a></li><li><a href="https://forlaens.com/digital-tilgaengelighed-i-danmark-en-praktisk-vejledning/">Digital Tilgængelighed i Danmark: En Praktisk Vejledning til Lovgivningen (EAA)</a></li></ul></td>
