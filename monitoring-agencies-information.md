@@ -126,7 +126,7 @@
 			<li>Report non-compliance through email (companies): <a href="mailto:sik@sik.dk">sik@sik.dk</a> in English 🇬🇧 or Danish 🇩🇰</li>
 			<li>Reporting tool (for the public): 
 				<ul>
-					<li><a href="https://produkter.dk,">Reporting tool for products, in Danish 🇩🇰</a></li>
+					<li><a href="https://produkter.dk">Reporting tool for products, in Danish 🇩🇰</a></li>
 				</ul>
 		</ul>
 	</td>
