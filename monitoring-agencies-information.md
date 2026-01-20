@@ -160,8 +160,8 @@
     <td>France</td>
     <td>✔️ <a href="https://accessibilite.numerique.gouv.fr/obligations/declaration-accessibilite/">Yes</a> </td>
     <td><ul><li>For the general case: <a href="https://www.economie.gouv.fr/dgccrf">DGCCRF</a></li><li><a href="https://acpr.banque-france.fr/">ACPR</a> (Autorité des contrôles prudentiels et de résolution)</li><li>Legal information provided to consumers: <a href="https://www.amf-france.org/fr">l’AMF (Autorité des Marchés Financiers)</a></li><li>Electronic signature services, payment services and authentication methods: <a href="https://www.banque-france.fr/">Banque de France</a></li><li>Telecom: <a href="https://www.arcep.fr/">ARCEP</a></li><li>Digital: <a href="https://www.arcom.fr/">ARCOM</a></li></ul></td>
-    <td>❓ Unknown</td>
-    <td><ul><li><a href="https://www.tpgi.com/french-law-2005-102-rgaa-and-web-accessibility/">Article from Tgpi</a></li><li><a href="https://accessibilite.numerique.gouv.fr/">Référentiel Général d’Accessibilité pour les Administrations (RGAA)</a></li></ul></td>
+    <td><ul><li><a href="https://demarche.numerique.gouv.fr/commencer/exemption-accessibilite-num">Reporting Portal, translation to English available</a><ul><li><a href="https://demarche.numerique.gouv.fr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTcwMzI5NTI5LCJleHAiOiIyMDI2LTAxLTIwVDE3OjE5OjA2LjE5NVoiLCJwdXIiOiJibG9iX2lkIn19--10b27b8ae41e291502ac7c19e0d4ad596880c894/D%C3%A9marches%20Simplifi%C3%A9es%20-%20Notice%20explicative%20invocation%20d'une%20exemption%20ou%20d%C3%A9claration%20d'une%20non%20conformit%C3%A9%20%C3%A0%20l'accessibilit%C3%A9.pdf?disposition=attachment">Reporting Procedure Notice, in French (PDF)</a></li></ul></li></ul></td>
+    <td><ul><li><a href="https://www.tpgi.com/french-law-2005-102-rgaa-and-web-accessibility/">Article from Tgpi</a></li><li><a href="https://accessibilite.numerique.gouv.fr/">Référentiel Général d’Accessibilité pour les Administrations (RGAA)</a></li><li><a href="https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/professionnels-vos-produits-et-services-doivent-etre-conformes-la-directive-accessibilite">Article from DGCCRF on Professionals' Obligations regarding EAA</a></li></ul></td>
   </tr>
   <tr>
 		<td>Germany</td>
@@ -169,7 +169,7 @@
 			✔️ <a href="https://ms.sachsen-anhalt.de/themen/menschen-mit-behinderungen/aktuelles/marktueberwachungsstelle-der-laender-fuer-die-barrierefreiheit-von-produkten-und-dienstleistungen/katalog-der-fragen-und-antworten-zum-barrierefreiheitsstaerkungsgesetz#c425324">Yes</a>
 		</td>
 		<td><a href="https://ms.sachsen-anhalt.de/themen/menschen-mit-behinderungen/aktuelles/marktueberwachungsstelle-der-laender-fuer-die-barrierefreiheit-von-produkten-und-dienstleistungen" lang="de">Marktüberwachungsstelle der Länder für die Barrierefreiheit von Produkten und Dienstleistungen (MLBF AöR)</a> (Market Surveillance Agency of the States for the Accessibility of Products and Services)</td>
-		<td>Email: <a href="mailto:MLBF@ms.sachsen-anhalt.de">MLBF@ms.sachsen-anhalt.de</a>.</td>
+		<td>Email: <a href="mailto:kontakt@mlbf-barrierefrei.de">kontakt@mlbf-barrierefrei.de</a>.</td>
 		<td>The <span lang="de">Marktüberwachungsstelle</span> started its work on 2025-09-29 after ratification of the agency through all states. Productive work will likely start in Q1/2026.</td>
 	</tr>
   <tr>
