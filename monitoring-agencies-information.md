@@ -189,7 +189,56 @@
   <tr>
     <td>Ireland</td>
     <td>❓ Unknown</td>
-    <td><ul><li><a href="https://www.ccpc.ie/">Irish Competition and Consumer Protection Commission (CCPC)</a></li><li><a href="https://www.comreg.ie/">Commission for Communications Regulation</a></li><li><a href="https://www.cnam.ie/">Coimisiún na Meán</a></li></ul></td>
+    <td>
+		<ul>
+			<li>
+				<a href="https://www.comreg.ie/">Commission for Communications Regulation</a>
+				<ul>
+					<li>Electronic communication services, other than transmission services used for the provision of machine-to-machine services.</li>
+					<li>Answering emergency communications to the single European emergency number ‘112’</li>
+				</ul>
+			</li>	
+			<li>
+				<a href="https://www.cnam.ie/">Coimisiún na Meán</a>
+				<ul>
+					<li>Services providing access to audiovisual media services.</li>
+				</ul>
+			</li>	
+			<li>
+				<a href="https://www.iaa.ie/">Irish Aviation Authority</a>
+				The following elements of air passenger transport services (other than urban and suburban transport services and regional transport services):
+				<ul>
+					<li>Websites.</li>
+					<li>Mobile device-based services, including mobile applications.</li>
+					<li>Electronic tickets and electronic ticketing services.</li>
+					<li>The delivery of transport service information, including real time travel information (insofar as it applies to information screens, will apply only in relation to interactive screens located in the EU).</li>
+					<li>Interactive self-service terminals located within the territory of the Union (other than those installed as integrated parts of vehicles, aircrafts, ships, and rolling stock used in the provision of any part of such passenger transport services).</li>
+				</ul>
+			</li>
+			<li>
+				<a href="https://www.nationaltransport.ie/">National Transport Authority</a>
+				The following elements of bus passenger transport services, rail passenger transport services, and waterborne passenger transport services (other than urban and suburban transport services and regional transport services):
+					<ul>
+						<li>Websites.</li>
+						<li>Mobile device-based services, including mobile applications.</li>
+						<li>Electronic tickets and electronic ticketing services.</li>
+						<li>The delivery of transport service information, including real time travel information (insofar as it applies to information screens, will apply only in relation to interactive screens located in the EU).</li>
+						<li>Interactive self-service terminals located within the territory of the Union (other than those installed as integrated parts of vehicles, aircrafts, ships, and rolling stock used in the provision of any part of such passenger transport services).
+						</li>
+					</ul>
+				</li>
+				The following elements of urban and suburban transport services and regional transport services:
+				<ul>
+					<li>Interactive self-service terminals located within the territory of the Union, other than those installed as integrated parts of vehicles and rolling stock used in the provision of any part of such passenger transport services.</li>
+				</ul>
+			</li>	
+			<li>
+				<a href="https://www.centralbank.ie/regulation/central-bank-portal">Central Bank of Ireland</a> (Consumer banking services)		</li>	
+			<li>
+				<a href="https://www.ccpc.ie/">Irish Competition and Consumer Protection Commission (CCPC)</a>
+			</li>
+		</ul>
+	</td>
     <td><ul><li>For companies: <a href="https://www.ccpc.ie/business/enforcement/accessibility/notify-the-ccpc-of-a-non-compliant-product-service-or-claim-an-exemption/">Reporting tool, in English 🇬🇧</a></li></ul></td>
     <td><ul><li><a href="https://www.tpgi.com/ireland-digital-accessibility-laws-eaa-and-beyond/">Article about Ireland from Tpgi</a></li><li><a href="https://www.mhc.ie/latest/insights/european-accessibility-act-implemented-into-irish-law">Overview of the Irish implementing measures</a></li></ul></td>
   </tr>
