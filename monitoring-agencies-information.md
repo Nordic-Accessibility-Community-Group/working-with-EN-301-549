@@ -264,7 +264,17 @@
   <tr>
     <td>Romania</td>
     <td>✔️ Yes</td>
-    <td><ul><li>The National Authority for Consumer Protection</li><li>the Ministry of Economy</li><li>The National Authority for Administration and Regulation in Communications</li><li>The Authority for the Digitalization of Romania</li><li>the National Audiovisual Council</li><li>Ministry of Transport and Infrastructure</li><li>Competition Council</li></ul>  </td>
+    <td>
+		<ul>
+			<li><a href="https://anpc.ro/">The National Authority for Consumers' Protection</a>(for banking, e-commerce, transport)</li>
+			<li>The Ministry of Economy (currently the <a href="https://economie.gov.ro/">Ministry of Economy, Digitalisation, Entrepreneurship and Tourism</a>) (for banking, transport)</li>
+			<li><a href="https://www.ancom.ro/">The National Authority for Administration and Regulation in Communications</a> (for electronic communication services)</li>
+			<li><a href="https://www.adr.gov.ro/">The Romanian Authority for Digitalisation</a> (for e-books, e-commerce)</li>
+			<li><a href="https://www.cna.ro/">The National Audiovisual Council</a> (for audio-visual mass media)</li>
+			<li><a href="https://www.mt.ro/web14/">The Ministry of Transport and Infrastructure</a> (for transport)</li>
+			<li><a href="The Competition Council">The Competition Council</a></li>
+		</ul>
+	</td>
     <td>❓ Unknown</td>
     <td><ul><li><a href="https://legislatie.just.ro/public/DetaliiDocument/257778#:~:text=Chapter%20VI%20Market%20surveillance%20of%20products%20and%20the%20procedure%20for%20ensuring%20protection%20at%20European%20Union%20level">LAW No. 232 of July 19, 2022</a></li></ul>  </td>
   </tr>
