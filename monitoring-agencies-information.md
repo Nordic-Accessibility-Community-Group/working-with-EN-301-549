@@ -350,10 +350,30 @@
   </tr>
   <tr>
     <td>Slovenia</td>
-    <td>❓ Unknown</td>
+    <td>✔️ Yes</td>
     <td><ul><li><a href="https://www.gov.si/drzavni-organi/organi-v-sestavi/inspektorat-za-informacijsko-druzbo/o-inspektoratu/">Inspectorate of the Republic of Slovenia for the Information Society</a><p>The Inspectorate carries out inspection supervision over the implementation of regulations governing electronic identification and trust services, regulations governing the accessibility of websites and mobile applications, and regulations on European data management.</p></li><li>The Agency for Communication Networks and Services of the Republic of Slovenia (<a href="https://www.akos-rs.si/en/">AKOS</a>)</li><li>Market Inspectorate of the Republic of Slovenia (TIRS)</li><li>Infrastructure Inspectorate of the Republic of Slovenia</li><li>Bank of Slovenia</li><li>Market Inspectorate of the Republic of Slovenia</li></ul>The Information Commissioner will be responsible for monitoring the implementation of the provisions of the ZDPSI on a case-by-case basis, and will be able to request the submission of all the necessary information and documents, to carry out inspections, to confiscate samples of the product, and to impose a prohibition on the use of the product and the provision of the service in the immediate event of any non-compliance, and to impose a fine on companies and sole proprietorships.</td>
-    <td>❓ Unknown</td>
-    <td><a href="https://www.podjetniski-portal.si/programi/enotna-tocka-za-krozno-gospodarstvo/novice/poslovni-nacrt-naj-odraza-tudi-ureditev-dostopnosti-za-invalide-2025-01-24">The Act on the Accessibility of Products and Services for Persons with Disabilities (ZDPSI)</a></td>
+    <td>
+		<ul>
+			<li>There's no online reporting tool available. Reports may be submitted by the public and companies in English 🇬🇧 or 🇸🇮 Slovene through:
+				<ul>
+					<li>Rregular mail: Davčna ulica 1, 1000 Ljubljana, Slovenija</li>
+					<li>Email to the official address of the Inspectorate <a href="mailto:gp.irsid@gov.si">gp.irsid@gov.si</a></li>
+				</ul>
+			</li>
+		</ul>
+	</td>
+    <td>
+		<ul>
+			<li>Accessibility statement must be published and:
+				<ul>
+					<li>describe any non-accessible content and the reasons for inaccessibility,</li>
+					<li>provide alternative means for accessing such content where possible,</li>
+					<li>include a mechanism through which users can contact the entity if they encounter accessibility barriers,</li>
+					<li>and contain contact information about the competent enforcement authority, enabling users to submit complaints if the entity does not respond adequately.</li>
+				</ul>
+			</li>
+		</ul>
+		<a href="https://www.podjetniski-portal.si/programi/enotna-tocka-za-krozno-gospodarstvo/novice/poslovni-nacrt-naj-odraza-tudi-ureditev-dostopnosti-za-invalide-2025-01-24">The Act on the Accessibility of Products and Services for Persons with Disabilities (ZDPSI)</a></td>
   </tr>
   <tr>
     <td>Spain</td>
