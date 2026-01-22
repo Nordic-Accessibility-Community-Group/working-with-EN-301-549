@@ -260,7 +260,21 @@
     <td>Lithuania</td>
     <td>✖️ No </td>
     <td><ul><li><a href="https://vvtat.lrv.lt/lt/">VVTAT</a> (State Consumer Rights Protection Authority) </li><li><a href="https://ltsa.lrv.lt/lt/">LTSA</a> (Transport Safety authority)</li><li><a href="https://www.rrt.lt/en/about-rrt/">RRT</a> (Communication Regulatory authority)</li><li><a href="https://www.rtk.lt/en/">RTK</a> (Radio ant Television Comission)</li></ul></td>
-    <td>❓ Unknown </td>
+    <td>
+		<ul>
+			<li>For companies: 
+				<ul>
+					<li>No specific service available for companies. You can use the consumer request at <a href="https://vvtat.lrv.lt/en/how-to-submit-a-request/">How to submit a request, in English 🇬🇧 or Lithuanian 🇱🇹</a>.</li>
+					<li>Email: <a href="mailto:tarnyba@vvtat.lt">tarnyba@vvtat.lt</a>, in English 🇬🇧 or Lithuanian 🇱🇹</li>
+				</ul>
+			</li>
+			<li>For the public: 
+				<ul>
+					<li><a href="https://vvtat.lrv.lt/en/how-to-submit-a-request/">How to submit a request</a>.</li>
+				</ul>
+			</li>
+		</ul>
+	</td>
     <td></td>
   </tr>
   <tr>
