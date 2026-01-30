@@ -46,7 +46,7 @@ For the public sector the government agencies have been very strict in what they
 The directive says that an assessment needs to be made and documented to be able to claim disproportionate burden.
 
 # Accessibility at [NAME of Company]
-
+> Here you need to add a general description of the service and how it functions. Explain the parts needed to understand how to use the service.
 ## We will help you
 Have you encountered something that didn't work? We'd be grateful for your feedback on how we can improve.
 Contact us and we'll get back to you in a way that suits you, and make sure you get the help you need as soon as possible.
