@@ -86,6 +86,14 @@ Type can be Monitoring agencies with authority to take action under the Europen 
     <td>-</td>
   </tr>
   <tr>
+    <td>Slovenia</td>
+    <td>Monitoring agency</td>
+    <td>Active monitoring</td>
+    <td>Non-compliance warnings have been issued. No fines so far.</td>
+    <td>2026-02-13</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>Sweden</td>
     <td>Monitoring agency</td>
     <td>Active monitoring</td>
