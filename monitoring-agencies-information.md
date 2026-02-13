@@ -452,7 +452,7 @@
     <td>❓ Unknown  </td>
     <td>❓ Unknown  </td>
     <td>❓ Unknown  </td>
-    <td>Has yet to implement the EAA in their law, status can be read at [Regjeringen.no - EUs Tilgjengelighetsdirektiv](https://www.regjeringen.no/no/sub/eos-notatbasen/notatene/2016/mars/eus-tilgjengelighetsdirektiv/id2498097/). So there's no information so far about any reporting obligations. "It is still unclear when the EAA will be incorporated into Norwegian regulations", says the article [EU Accessibility Directive – not yet adopted in Norway](https://www.bufdir.no/aktuelt/nyhetsbrev/uu/eus-tilgjengelighetsdirektiv-enna-ikke-vedtatt-i-norge/)</td>
+    <td>Has yet to implement the EAA in their law, status can be read at <a href="https://www.regjeringen.no/no/sub/eos-notatbasen/notatene/2016/mars/eus-tilgjengelighetsdirektiv/id2498097">Regjeringen.no - EUs Tilgjengelighetsdirektiv</a>. So there's no information so far about any reporting obligations. "It is still unclear when the EAA will be incorporated into Norwegian regulations", says the article <a href="https://www.bufdir.no/aktuelt/nyhetsbrev/uu/eus-tilgjengelighetsdirektiv-enna-ikke-vedtatt-i-norge/">EU Accessibility Directive – not yet adopted in Norway</a></td>
   </tr>
 </table>
 
