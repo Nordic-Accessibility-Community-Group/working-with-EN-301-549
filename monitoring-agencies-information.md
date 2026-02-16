@@ -152,6 +152,13 @@
           <li><a href="https://saavutettavuusvaatimukset.fi/sv/kraven-i-lagen-om-digitala-tjanster/skyldighet-att-anmala-brister-och-undantagsgrunder/anmalan-om">Reporting tool, in Swedish 🇸🇪</a></li>
         </ul>
        </li>
+		<li>Reporting tools for the public: 
+         <ul>
+          <li><a href="https://www.saavutettavuusvaatimukset.fi/en/user-rights/submit-complaint-web-accessibility-or-request-clarification">E-service, in English 🇬🇧</a></li>
+          <li><a href="https://www.saavutettavuusvaatimukset.fi/fi/kayttajan-oikeudet/tee-saavutettavuuskantelu-tai-pyyda-selvitysta">E-service, in Finnish 🇫🇮</a></li>
+          <li><a href="https://www.saavutettavuusvaatimukset.fi/sv/dina-rattigheter/lamna-en-tillganglighetsklagan-eller-be-om-en-utredning">E-service, in Swedish 🇸🇪</a></li>
+        </ul>
+       </li>
     </ul>
     </td>
     <td><a href="https://www.saavutettavuusvaatimukset.fi/en/requirements-act-provision-digital-services/obligation-notify-deficiencies-and-grounds-derogation">Instructions in English 🇬🇧</a><p>Reporting is accepted in English even if the official languages are Finnish and Swedish. Additional communication needs is not guaranteed to follow in English. Using the reporting tool is preferred since it is designed to gather all the needed information.</p></td>
