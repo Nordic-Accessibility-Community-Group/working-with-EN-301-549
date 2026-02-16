@@ -338,7 +338,7 @@
 			<li><a href="The Competition Council">The Competition Council</a></li>
 		</ul>
 	</td>
-    <td>❓ Unknown</td>
+    <td>No reporting tool available. Reporting can be done in English 🇬🇧 or Romanian 🇷🇴 through email <a href="mailto:	registratura@anpd.gov.ro">registratura@anpd.gov.ro</a></td>
     <td><ul><li><a href="https://legislatie.just.ro/public/DetaliiDocument/257778#:~:text=Chapter%20VI%20Market%20surveillance%20of%20products%20and%20the%20procedure%20for%20ensuring%20protection%20at%20European%20Union%20level">LAW No. 232 of July 19, 2022</a></li></ul>  </td>
   </tr>
   <tr>
