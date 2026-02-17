@@ -97,9 +97,20 @@ Type can be Monitoring agencies with authority to take action under the Europen 
     <td>Sweden</td>
     <td>Monitoring agency</td>
     <td>Active monitoring</td>
-    <td><ul><li><strong>Products:</strong> The post and telecommunication agency <a href="https://pts.se//nyheter-och-pressmeddelanden/pts-inleder-marknadskontroll/">(PTS) has started monitoring laptops, smartphones och tablets</a>! First round includes: <ul><li>EU declaration of conformity (EU-försäkran)</lI><li>Digital product information (Krav på digital information)</li></ul></li><li> <strong>Services:</strong> Phase 1 in <a href="https://pts.se//nyheter-och-pressmeddelanden/pts-inleder-en-tillsyn-av-e-handelstjanster/">monitoring started by PTS</a>. PTS will focus on large E-commerce actors active in Sweden. Focus area now: Startpage, product page and Search function. </li></ul></td>
+    <td>
+      <ul>
+        <li>
+          <strong>Products:</strong> The post and telecommunication agency <a href="https://pts.se//nyheter-och-pressmeddelanden/pts-inleder-marknadskontroll/">(PTS) has started monitoring laptops, smartphones och tablets</a>! First round includes: 
+          <ul>
+            <li>EU declaration of conformity (EU-försäkran)</lI><li>Digital product information (Krav på digital information)</li>
+          </ul>
+        </li>
+        <li> <strong>Services:</strong> Phase 1 in <a href="https://pts.se//nyheter-och-pressmeddelanden/pts-inleder-en-tillsyn-av-e-handelstjanster/">monitoring started by PTS</a>. PTS will focus on large E-commerce actors active in Sweden. Focus area now: Startpage, product page and Search function. </li>
+        <li><strong>Complaints from the public:</strong> As of 2026-02-17, PTS has received <a href="https://pts.se//nyheter-och-pressmeddelanden/klaga-pa-produkters-och-tjansters-tillganglighet/">124 complaints from the public.</a>110 of these cover services and 14 cover products.</li>
+    </ul>
+    </td>
     <td>2025-10-15</td>
-    <td>2025-10-23</td>
+    <td>2026-02-17</td>
   </tr>
 </table>
 
