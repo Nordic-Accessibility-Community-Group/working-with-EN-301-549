@@ -352,7 +352,12 @@
     <td>Slovakia</td>
     <td>❓ Unknown</td>
     <td>Slovak Trade Inspection (Slovenská obchodná inšpekcia)</td>
-    <td>❓ Unknown</td>
+    <td>
+		<ul>
+			<li>No reporting tool available.</li>
+			<li>Email reports to:<a href="mailto=info@soi.sk">info@soi.sk</a> in 🇬🇧 English or 🇸🇰 Slovak</li>
+		</ul>
+	</td>
     <td><a href="https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2022/351/20250628.html#paragraf-8">Act No. 351/2022 </a> Coll. on the Accessibility of Products and Services for Persons with Disabilities and on Amendments and Supplements to Certain Acts</td>
   </tr>
   <tr>
