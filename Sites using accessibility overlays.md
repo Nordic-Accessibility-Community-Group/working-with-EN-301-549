@@ -10,6 +10,9 @@
 - [Article in Swedish about accessibility overlays](https://webperf.se/articles/t12toverlagg/).
 - [AccessiByeBye](https://www.accessibyebye.org/) is a web browser plugin to block overlays. They have a list of sites blocked by the plugin.
 
+### International
+- https://event.virtualdays.com/swedishinstitutedemo - Virtual days Event platform (UserWay)
+
 ## EU countries
 
 ### Finland
