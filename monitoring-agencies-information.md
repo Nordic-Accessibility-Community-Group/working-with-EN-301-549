@@ -115,7 +115,7 @@
   <tr>
     <td>Denmark</td>
     <td>✔️ <a href="https://www.retsinformation.dk/eli/lta/2022/801/pdf">Yes</a></td>
-    <td><ul><li>Sikkerhedsstyrelsen</li><li>Energistyrelsen</li><li>Trafikstyrelsen</li><li>Søfartsstyrelsen</li><li>Finanstilsynet</ul></td>
+    <td><ul><li>Erhvervsstyrelsen</li><li>Energistyrelsen</li><li>Trafikstyrelsen</li><li>Søfartsstyrelsen</li><li>Finanstilsynet</ul></td>
     <td>
 		<ul>
 			<li>Report exemptions (companies): 
