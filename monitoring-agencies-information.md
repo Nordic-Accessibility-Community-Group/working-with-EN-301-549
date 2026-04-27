@@ -390,8 +390,8 @@
   <tr>
     <td>Spain</td>
     <td>✔️ Yes </td>
-    <td>In Spain, it is up to the autonomous communities and the autonomous cities of Ceuta and Melilla to determine their surveillance authorities, as per article 27.3 of the national law 11/2023 transposing the EAA (Ley 11/2023). A coordination of all the local market survelliance authorities is not set.</td>
-    <td>❓ Unknown</td>
+    <td><a href="https://www.rpdiscapacidad.gob.es/discriminacion/utac-accesibilidad.htm" lang="es">Unidad Técnica de Apoyo y Coordinación (UTAC)</a>. Coordination of all the local market survelliance authorities. In Spain, it is up to the autonomous communities and the autonomous cities of Ceuta and Melilla to determine their surveillance authorities, as per article 27.3 of the national law 11/2023 transposing the EAA (Ley 11/2023).</td>
+		<td>Email: <a href="mailto:utac@dsca.gob.es">utac@dsca.gob.es</a>.</td>
     <td>For accessibility statement you can find information in chapter III - art 7, 8 and 9 of law 11/2023 </td>
   </tr>
   <tr>
