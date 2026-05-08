@@ -29,6 +29,7 @@ https://www.fjallraven.com/se/sv-se/ (UserWay)
 
 ### Sweden
 
+- https://websupport.se/ (AccessiWay)
 - https://hags.com - (Selma)
 - https://www.hederaassistans.se (Selma)
 - https://arvidsjaur.se (Selma)
