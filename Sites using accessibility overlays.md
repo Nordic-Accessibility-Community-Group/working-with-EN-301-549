@@ -20,6 +20,9 @@
 - https://ivakonferens.se/fi/saavutettavuus/ (Selma)
 - https://www.fjallraven.com/fi/fi-fi/ (UserWay)
 
+### Germany
+- https://www.wuerzburg.de (Regiogate)
+
 ### Norway
 
 https://www.fjallraven.com/se/sv-se/ (UserWay)
