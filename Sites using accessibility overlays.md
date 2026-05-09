@@ -9,6 +9,7 @@
 - [Overlay Factsheet](https://overlayfactsheet.com/en/#what-is-a-web-accessibility-overlay) is a resource signed by almost 1000 accessibility professionals around the world.
 - [Article in Swedish about accessibility overlays](https://webperf.se/articles/t12toverlagg/).
 - [AccessiByeBye](https://www.accessibyebye.org/) is a web browser plugin to block overlays. They have a list of sites blocked by the plugin.
+- [The Impact of Web Accessibility Overlays on the Usability and User Experience for People with Permanent Visual Impairments](https://www.accessibyebye.org/), master's thesis by Daniela Kubesch, MSc MSc.
 
 ### International
 - https://event.virtualdays.com/swedishinstitutedemo - Virtual days Event platform (UserWay)
