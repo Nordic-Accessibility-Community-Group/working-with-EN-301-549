@@ -10,6 +10,7 @@
 - [Article in Swedish about accessibility overlays](https://webperf.se/articles/t12toverlagg/).
 - [AccessiByeBye](https://www.accessibyebye.org/) is a web browser plugin to block overlays. They have a list of sites blocked by the plugin.
 - [The Impact of Web Accessibility Overlays on the Usability and User Experience for People with Permanent Visual Impairments](https://overlays.dnikub.dev/), master's thesis by Daniela Kubesch, MSc MSc.
+- [We intercepted every request from five accessibility tools. Here’s what they actually do to your site.](https://aiopsgroup.com/we-intercepted-every-request-from-five-accessibility-tools-heres-what-they-actually-do-to-your-site/)
 
 ### International
 - https://event.virtualdays.com/swedishinstitutedemo - Virtual days Event platform (UserWay)
