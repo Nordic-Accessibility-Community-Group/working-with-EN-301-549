@@ -246,7 +246,9 @@
 			</li>
 		</ul>
 	</td>
-    <td><ul><li>For companies: <a href="https://www.ccpc.ie/business/enforcement/accessibility/notify-the-ccpc-of-a-non-compliant-product-service-or-claim-an-exemption/">Reporting tool, in English 🇬🇧</a></li></ul></td>
+    <td><ul><li>Reporting tool for companies: <a href="https://www.ccpc.ie/business/enforcement/accessibility/notify-the-ccpc-of-a-non-compliant-product-service-or-claim-an-exemption/">Reporting tool, in English 🇬🇧</a></li>
+	<li>Report through email for companies: <a href="mailto:access@ccpc.ie">access@ccpc.ie</a>, in English 🇬🇧</li>
+	</ul></td>
     <td><ul><li><a href="https://www.tpgi.com/ireland-digital-accessibility-laws-eaa-and-beyond/">Article about Ireland from Tpgi</a></li><li><a href="https://www.mhc.ie/latest/insights/european-accessibility-act-implemented-into-irish-law">Overview of the Irish implementing measures</a></li></ul></td>
   </tr>
   <tr>
