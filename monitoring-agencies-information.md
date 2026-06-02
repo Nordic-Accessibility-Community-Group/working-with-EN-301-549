@@ -262,7 +262,7 @@
     <td>Latvia</td>
     <td> ✔️ <a href="https://likumi.lv/ta/id/340554">Yes</a></td>
     <td><ul><li>All EAA products and most of services  (financial services, e-books, e-commerce, water transport): <a href="https://www.ptac.gov.lv/en/contacts">Consumer Rights Protection Centre (PTAC)</a></li><li>Electronic communications: <a href="https://www.sprk.gov.lv/en/contacts">Public Utilities Commission(SPRK)</a></li><li>Access to audiovisual media services: <a href="https://www.neplp.lv/en/contacts">National Electronic Mass Media Council (NEPLP)</a></li><li>Specific elements of air passenger services: <a href="">Civil Aviation Agency (CAA)</a></li><li>Bus and domestic rail services: <a href="https://www.caa.gov.lv/en/contacts-authority">State Ltd. Road Transport Administration (ATD)</a></li><li>International rail services: <a href="https://www.vda.gov.lv/en/contacts-authority">State Railway Administration (VDA)</a></li><li>Self-service terminals used in public transport like buses, trams, and trolleybuses: Municipalities</li></ul></td>
-    <td>For CRPC via e-mail <a href="mailto:pasts@ptac.gov.lv">pasts@ptac.gov.lv</a>you can report about exemptions, non-compliances (also recalls) in 🇬🇧 English or 🇱🇻 Latvian.</td>
+    <td>For CRPC via e-mail <a href="mailto:pasts@ptac.gov.lv">pasts@ptac.gov.lv</a> you can report about exemptions, non-compliances (also recalls) in 🇬🇧 English or 🇱🇻 Latvian.</td>
     <td>National legal acts:
 		<ul>
 			<li><a href="https://likumi.lv/ta/id/340554-precu-un-pakalpojumu-pieklustamibas-likums">Preču un pakalpojumu piekļūstamības likums</a></li>
