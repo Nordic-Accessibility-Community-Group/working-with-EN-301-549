@@ -261,9 +261,16 @@
   <tr>
     <td>Latvia</td>
     <td> ✔️ <a href="https://likumi.lv/ta/id/340554">Yes</a></td>
-    <td><ul><li>Most digital services and products (financial services, e-books, e-commerce, water transport): Consumer Rights Protection Centre (PTAC)</li><li>Electronic communications: Public Utilities Commission (SPRK)</li><li>Access to audiovisual media services: National Electronic Mass Media Council (NEPLP)</li><li>Specific elements of air passenger services: Civil Aviation Agency</li><li>Bus and domestic rail services: Road Transport Administration</li><li>International rail services: State Railway Administration</li><li>Self-service terminals used in public transport like buses, trams, and trolleybuses: Municipalities</li></ul></td>
-    <td>❓ Unknown </td>
-    <td></td>
+    <td><ul><li>All EAA products and most of services  (financial services, e-books, e-commerce, water transport): <a href="https://www.ptac.gov.lv/en/contacts">Consumer Rights Protection Centre (PTAC)</a></li><li>Electronic communications: <a href="https://www.sprk.gov.lv/en/contacts">Public Utilities Commission(SPRK)</a></li><li>Access to audiovisual media services: <a href="https://www.neplp.lv/en/contacts">National Electronic Mass Media Council (NEPLP)</a></li><li>Specific elements of air passenger services: <a href="">Civil Aviation Agency (CAA)</a></li><li>Bus and domestic rail services: <a href="https://www.caa.gov.lv/en/contacts-authority">State Ltd. Road Transport Administration (ATD)</a></li><li>International rail services: <a href="https://www.vda.gov.lv/en/contacts-authority">State Railway Administration (VDA)</a></li><li>Self-service terminals used in public transport like buses, trams, and trolleybuses: Municipalities</li></ul></td>
+    <td>For CRPC via e-mail <a href="mailto:pasts@ptac.gov.lv">pasts@ptac.gov.lv</a>you can report about exemptions, non-compliances (also recalls) in 🇬🇧 English or 🇱🇻 Latvian.</td>
+    <td>National legal acts:
+		<ul>
+			<li><a href="https://likumi.lv/ta/id/340554-precu-un-pakalpojumu-pieklustamibas-likums">Preču un pakalpojumu piekļūstamības likums</a></li>
+			<li><a href="https://likumi.lv/ta/id/350121-precu-un-pakalpojumu-pieklustamibas-prasibas">Preču un pakalpojumu piekļūstamības prasības</a></li>
+		</ul>
+These documents have not been officially translated to English by the <a href="https://www.vvc.gov.lv/lv">State Language Centre</a>.
+
+Reporting may be accepted in English even if the official language is Latvian. In some cases still may be needed documention translation to Latvian, especially for public usage.</td>
   </tr>
   <tr>
     <td>Lithuania</td>
