@@ -29,4 +29,4 @@ Normative requirement (EN 301 549 v4.1.0 draft)
 [Are there any definitions or explanations of terms used in the clause that needs more explanations?]
 
 ## Legal outcomes
-> Here we add any known interpretations from monitoring or court decisions.
+> Known interpretations from monitoring or court decisions.
