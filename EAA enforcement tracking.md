@@ -43,6 +43,20 @@ Type can be Monitoring agencies with authority to take action under the Europen 
     <td>
       <ul>
         <li>
+          Interesting court ruling in France regarding RGAA compliance for Carrefour (website + app). It's a bit confusing that they point to the exact date when the EAA strictly goes into effect, but base the threshold on the RGAA rule for a turnover exceeding 250 million euros. 🤔       
+<a href="https://drive.google.com/file/d/1oLBtmc9CZlyrkxVGxN8714gbmwe3GQxG/view?usp=sharing">French court verdict</a>, 
+<a href="https://docs.google.com/document/d/1WRTj5FFC6O_b5o-3iKnagpD77vvHnGx62DwQdaFu4zU/edit?usp=sharing">English AI-translation</a>, 
+<a href="https://droitpluriel.fr/decision-du-tribunal-judiciaire-de-caen-apidv-et-droit-pluriel-c-carrefour-une-decision-de-justice-majeure-pour-laccessibilite-numerique/">Article in French about the court decision.</a>
+
+In summary, the ruling orders Carrefour to:
+<ul>
+  <li>Fix the accessibility deficiencies within 6 months, after which a penalty of €500 per day will be imposed if they fail to comply with the ruling.</li>
+  <li>Pay €10,000 in damages to the disability rights organizations APIDV and DROIT PLURIEL, who brought the case forward.</li>
+  <li>Pay all legal costs.</li>
+  <li>Pay an additional €3,000 to the organizations.</li>
+</ul>
+        </li>
+        <li>
           <blockquote>It's an emergency procedure (assignation en référé), meaning courts can demand immediate fixes, not vague promises. <a href="https://www.linkedin.com/posts/ronnyhendriks_accessibility-europeanaccessibilityact-eaa-activity-7401514324759957504-uKhy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJWGMBdqTseucyldNj7MZ8clk1tZOO8cw">LinkedIn post by Ronny Hendricks</a></blockquote>
           A11y explained by Diana explains the case in <a href="https://a11ywithdiana.substack.com/p/first-french-lawsuits-when-grocery">First french lawsuits: when grocery e-commerce meets accessibility law</a> and a French article is available at <a href="https://www.interetaagir.org/assignation-en-refere-des-entreprises-auchan-carrefour-e-leclerc-et-picard-surgeles/">Assignation en référé des entreprises Auchan, Carrefour, E. Leclerc et Picard Surgelés</a>.
         </li>
@@ -51,7 +65,7 @@ Type can be Monitoring agencies with authority to take action under the Europen 
       </ul>
     </td>
     <td>2025-07-18</td>
-    <td>2025-12-02</td>
+    <td>2026-06-02</td>
   </tr>
   <tr>
     <td>Germany</td>
