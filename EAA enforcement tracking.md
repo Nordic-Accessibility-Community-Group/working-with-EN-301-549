@@ -6,7 +6,18 @@
 - [Global Law and Policy by Lainey Feingold](https://www.lflegal.com/global-law-and-policy/)
 
 ## Table of legal enforcement status in the EU
-Type can be Monitoring agencies with authority to take action under the Europen accessibility act (EAA) or civil action.
+Type can be: 
+<ul>
+  <li>
+    Monitoring agencies with authority to take action under the Europen accessibility act (EAA)
+  </li>
+  <li>
+    Civil action
+  </li>
+  <li>
+    EU commission
+  </li>
+</ul>
 <table>
   <tr>
     <th>Country</th>
