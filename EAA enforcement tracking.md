@@ -14,9 +14,6 @@ Type can be:
   <li>
     Civil action
   </li>
-  <li>
-    EU commission
-  </li>
 </ul>
 <table>
   <tr>
@@ -136,6 +133,24 @@ In summary, the ruling orders Carrefour to:
     </td>
     <td>2025-10-15</td>
     <td>2026-02-17</td>
+  </tr>
+</table>
+
+## Decisions from the EU commission
+<table>
+  <tr>
+    <th>Countries affected</th>
+    <th>Details</th>
+    <th>Resources</th>
+    <th>Date added</th>
+    <th>Date updated</th>
+  </tr>
+  <tr>
+    <td>Crotia 🇭🇷 and Germany 🇩🇪</td>
+    <td>Commission calls on Germany and Croatia to fully incorporate accessibility requirements for products and services into their national law.</td>
+    <td><a href="https://ec.europa.eu/commission/presscorner/detail/en/inf_26_431#:~:text=Commission%20calls%20on%20Germany%20and%20Croatia%20to%20fully%20incorporate%20accessibility%20requirements%20for%20products%20and%20services%20into%20their%20national%20law">March infringements package: key decisions</a></td>
+    <td>2026-06-24</td>
+    <td></td>
   </tr>
 </table>
 
