@@ -81,3 +81,6 @@ People who benefit include:
 ### [Topic]
 
 [Add another interpretation note only when it helps readers apply the clause.]
+
+## Legal outcomes
+> Known interpretations from monitoring or court decisions.

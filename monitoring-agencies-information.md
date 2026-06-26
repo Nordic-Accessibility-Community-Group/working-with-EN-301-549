@@ -177,7 +177,10 @@
 		</td>
 		<td><a href="https://ms.sachsen-anhalt.de/themen/menschen-mit-behinderungen/aktuelles/marktueberwachungsstelle-der-laender-fuer-die-barrierefreiheit-von-produkten-und-dienstleistungen" lang="de">Marktüberwachungsstelle der Länder für die Barrierefreiheit von Produkten und Dienstleistungen (MLBF AöR)</a> (Market Surveillance Agency of the States for the Accessibility of Products and Services)</td>
 		<td>Email: <a href="mailto:kontakt@mlbf-barrierefrei.de">kontakt@mlbf-barrierefrei.de</a>.</td>
-		<td>The <span lang="de">Marktüberwachungsstelle</span> started its work on 2025-09-29 after ratification of the agency through all states. Productive work will likely start in Q1/2026.</td>
+		<td>
+			<a href="https://marcus-herrmann.com/blog/mlbf-verraet-wie-sie-pruefen-will" lang="de">The MLBF reveals how it intends to conduct the audit. In German 🇩🇪 </a>
+			<p>The <span lang="de">Marktüberwachungsstelle</span> started its work on 2025-09-29 after ratification of the agency through all states. Productive work will likely start in Q1/2026.</p>
+		</td>
 	</tr>
   <tr>
     <td>Greece</td>
