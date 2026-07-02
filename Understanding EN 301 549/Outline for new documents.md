@@ -23,6 +23,13 @@ This page is the Nordic Accessibility Community Group's understanding of Draft E
 
 [Add any important practical considerations.]
 
+## Benefits
+People who benefit include:
+
+- [User group or situation]
+- [User group or situation]
+- [User group or situation]
+
 ## Scope
 [Explain when the clause applies.]
 
@@ -58,13 +65,6 @@ Common failures include:
 - [Failure example]
 - [Failure example]
 - [Failure example]
-
-## Benefits
-People who benefit include:
-
-- [User group or situation]
-- [User group or situation]
-- [User group or situation]
 
 ## Key Terms
 **[Term]:** [Plain-language explanation.]
